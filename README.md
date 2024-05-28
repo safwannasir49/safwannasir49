@@ -92,6 +92,17 @@ Frameworks, Platforms and Libraries
 
 
 
+Databases:
+
+<a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" style="max-width: 100%;">
+</a>
+<a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" style="max-width: 100%;">
+</a>
+
+
+
 
 
 

@@ -55,10 +55,39 @@ Frameworks, Platforms and Libraries
 <a href="https://www.anaconda.com/">
     <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda" style="max-width: 100%;">
 </a>
+<a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" style="max-width: 100%;">
+</a>
+
 <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/FastAPI-00C7B7.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="max-width: 100%;">
 </a>
 <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" style="max-width: 100%;">
 </a>
+<a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" style="max-width: 100%;">
+</a>
+<a href="https://dash.plotly.com/">
+    <img src="https://img.shields.io/badge/Dash-000000.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Dash" style="max-width: 100%;">
+</a>
+<a href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" style="max-width: 100%;">
+</a>
+<a href="https://www.crummy.com/software/BeautifulSoup/">
+    <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white" alt="BeautifulSoup" style="max-width: 100%;">
+</a>
+<a href="https://scrapy.org/">
+    <img src="https://img.shields.io/badge/Scrapy-48A6E6.svg?style=for-the-badge&logo=Scrapy&logoColor=white" alt="Scrapy" style="max-width: 100%;">
+</a>
+<a href="https://python-pillow.org/">
+    <img src="https://img.shields.io/badge/Pillow-269539.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" style="max-width: 100%;">
+</a>
+<a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" style="max-width: 100%;">
+</a>
+<a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" style="max-width: 100%;">
+</a>
+
 

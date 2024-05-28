@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # My Skill Set:
 
-Frameworks, Platforms and Libraries
+# Frameworks, Platforms and Libraries
 
 
 <a href="https://scikit-learn.org/">
@@ -92,7 +92,7 @@ Frameworks, Platforms and Libraries
 
 
 
-Databases:
+# Databases:
 
 <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" style="max-width: 100%;">

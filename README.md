@@ -58,14 +58,33 @@ Click on the Badge Icons Below
 
 # Languages
 
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=c" alt="C Language" /></a>
+<div align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px;"/>
+    </a>
+</div>
+
 
 # IDEs/EDITORS
 

@@ -92,24 +92,6 @@ Click on the Badge Icons Below
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=c" alt="C Language" /></a>
 
 # IDEs/EDITORS
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.rstudio.com/">
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-</a>
 
 <div align="center">
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">

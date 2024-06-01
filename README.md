@@ -158,6 +158,9 @@ Click on the Badge Icon Below
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/CoderByte-ADD8E6?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://app.codility.com/programmers/">
+    <img src="https://img.shields.io/badge/Codility-2EC866?style=for-the-badge&logo=codility&logoColor=white" alt="Codility" />
+</a>
 
 
 

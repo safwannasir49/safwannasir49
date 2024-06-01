@@ -147,6 +147,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </a>
 
+# Developer / Forums
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/u/safwannasir49">
+    <img src="https://img.shields.io/badge/My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="My LeetCode Profile" />
+</a>
 
 
 

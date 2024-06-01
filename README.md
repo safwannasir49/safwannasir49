@@ -101,6 +101,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" style="max-width: 100%;">
 </a>
 
+# Languages
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</a>
+
 
 
 

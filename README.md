@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 # My Skill Set:
 
 # Frameworks, Platforms and Libraries
-(Click on the Badge Icons Below)
+<p>(Click on the Badge Icons Below)</p>
 
 <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="max-width: 100%;">

@@ -164,6 +164,9 @@ Click on the Badge Icon Below
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/profile/safwannasir49">
     <img src="https://img.shields.io/badge/My%20Striver's%20Profile-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="My Striver's Profile" />
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
+    <img src="https://img.shields.io/badge/My%20CoderByte%20Profile-2EC866?style=for-the-badge&logo=coderbyte&logoColor=white" alt="My CoderByte Profile" />
+</a>
 
 
 

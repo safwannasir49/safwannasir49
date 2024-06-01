@@ -111,16 +111,27 @@ Click on the Badge Icons Below
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </a>
 
-<a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
 <div align="center">
+    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px;"/>
+    </a>
     <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 100px; height: 100px;"/>
+        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=rstudio" alt="RStudio" style="width: 50px; height: 50px;"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px;"/>
     </a>
 </div>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=rstudio" alt="RStudio" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
+
 
 # Developer / Forums
 

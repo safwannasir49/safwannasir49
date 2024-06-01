@@ -151,20 +151,18 @@ Click on the Badge Icons Below
 
 Click on the Badge Icon Below
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/u/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="My LeetCode Profile" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.geeksforgeeks.org/user/safwannasir49/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/profile/safwannasir49">
     <img src="https://img.shields.io/badge/Striver's%20Profile-0F9D58?style=for-the-badge&logo=strivers&logoColor=white" alt="Striver's Profile" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/CoderByte-ADD8E6?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />

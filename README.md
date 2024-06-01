@@ -13,20 +13,11 @@ Click on the Badge Icons Below
 <a href="https://scikit-learn.org/">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="max-width: 100%;">
 </a>
-<a href="https://xgboost.ai/">
-    <img src="https://img.shields.io/badge/XGBoost-22AA2C.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABlN+5/AAAAXVBMVEX///+hoaHd3d3Pz8/d3d3Nzc3Z2dnS0tLOzs7r6+vBwcH5+fn19fXv7+/y8vLc3NyytrbT09Pr6+vn5+fPz8+mpqaurq63t7e7u7u/v7/Z2dl2dnaH1I1NAAAAb0lEQVR4XmyNxw6AIAxDkUaFQAGqvP9PKYkNhxtP3PVs1iTQH5Je4EkmzUApGAATpQqqDF9gUoAGWUg1XjBM03xY4CY7jQX/ALsCHvCgZII7SaWCVFSuCQ+Ob4G5+b+5P/9AMOmgLPHKwYJAAAAABJRU5ErkJggg==" alt="XGBoost" style="max-width: 100%;">
-</a>
-<a href="https://lightgbm.readthedocs.io/">
-    <img src="https://img.shields.io/badge/LightGBM-00BF9A.svg?style=for-the-badge&logo=LightGBM&logoColor=white" alt="LightGBM" style="max-width: 100%;">
-</a>
 <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="max-width: 100%;">
 </a>
 <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="max-width: 100%;">
-</a>
-<a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" style="max-width: 100%;">
 </a>
 <a href="https://spacy.io/">
     <img src="https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy" style="max-width: 100%;">

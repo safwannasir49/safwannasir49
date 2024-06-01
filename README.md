@@ -152,20 +152,20 @@ Click on the Badge Icons Below
 Click on the Badge Icon Below
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="My HackerRank Profile" />
+    <img src="https://img.shields.io/badge/My%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt=" HackerRank" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/u/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="My LeetCode Profile" />
+    <img src="https://img.shields.io/badge/My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.geeksforgeeks.org/user/safwannasir49/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
-    <img src="https://img.shields.io/badge/My%20GeeksforGeeks%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="My GeeksforGeeks Profile" />
+    <img src="https://img.shields.io/badge/My%20GeeksforGeeks%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20Striver's%20Profile-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="My Striver's Profile" />
+    <img src="https://img.shields.io/badge/My%20Striver's%20Profile-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="Striver's" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20CoderByte%20Profile-2EC866?style=for-the-badge&logo=coderbyte&logoColor=white" alt="My CoderByte Profile" />
+    <img src="https://img.shields.io/badge/My%20CoderByte%20Profile-2EC866?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />
 </a>
 
 

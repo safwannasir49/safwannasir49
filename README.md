@@ -82,6 +82,15 @@ Click on the Badge Icons Below
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
 </a>
 
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=c" alt="C Language" /></a>
+
 # IDEs/EDITORS
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.android.com/studio">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />

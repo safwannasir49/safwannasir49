@@ -1,13 +1,12 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Safwan+Nasir !;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
-<br/>
+<h3 align="center">A passionate software developer from India</h3>
 
 <div align="center">
-
 
 <!---
 safwannasir49/safwannasir49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

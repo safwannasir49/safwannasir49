@@ -27,76 +27,29 @@ You can click the Preview link to take a look at your changes.
 # Frameworks, Platforms and Libraries
 Click on the Badge Icons Below
 
-<a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="max-width: 100%;">
-</a>
-<a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="max-width: 100%;">
-</a>
-<a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="max-width: 100%;">
-</a>
-<a href="https://spacy.io/">
-    <img src="https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy" style="max-width: 100%;">
-</a>
-<a href="https://www.nltk.org/">
-    <img src="https://img.shields.io/badge/NLTK-85EA2D.svg?style=for-the-badge&logo=NLTK&logoColor=white" alt="NLTK" style="max-width: 100%;">
-</a>
-<a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFAA00.svg?style=for-the-badge&logo=Hugging-Face&logoColor=white" alt="Hugging Face" style="max-width: 100%;">
-</a>
-<a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy" style="max-width: 100%;">
-</a>
-<a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%;">
-</a>
-<a href="https://scipy.org/">
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy" style="max-width: 100%;">
-</a>
-<a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" style="max-width: 100%;">
-</a>
-<a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-1177B5.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" style="max-width: 100%;">
-</a>
-<a href="https://www.anaconda.com/">
-    <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda" style="max-width: 100%;">
-</a>
-<a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" style="max-width: 100%;">
-</a>
-
-<a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/FastAPI-00C7B7.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" style="max-width: 100%;">
-</a>
-<a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" style="max-width: 100%;">
-</a>
-<a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" style="max-width: 100%;">
-</a>
-<a href="https://dash.plotly.com/">
-    <img src="https://img.shields.io/badge/Dash-000000.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Dash" style="max-width: 100%;">
-</a>
-<a href="https://plotly.com/">
-    <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" style="max-width: 100%;">
-</a>
-<a href="https://www.crummy.com/software/BeautifulSoup/">
-    <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white" alt="BeautifulSoup" style="max-width: 100%;">
-</a>
-<a href="https://scrapy.org/">
-    <img src="https://img.shields.io/badge/Scrapy-48A6E6.svg?style=for-the-badge&logo=Scrapy&logoColor=white" alt="Scrapy" style="max-width: 100%;">
-</a>
-<a href="https://python-pillow.org/">
-    <img src="https://img.shields.io/badge/Pillow-269539.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" style="max-width: 100%;">
-</a>
-<a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" style="max-width: 100%;">
-</a>
-<a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" style="max-width: 100%;">
-</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-Learn" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+<a href="https://spacy.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=spacy" alt="spaCy" /></a>
+<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=nltk" alt="NLTK" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
+<a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scipy" alt="SciPy" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" /></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+<a href="https://plotly.com/dash/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=dash" alt="Dash" /></a>
+<a href="https://plotly.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" /></a>
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=beautifulsoup" alt="BeautifulSoup" /></a>
+<a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scrapy" alt="Scrapy" /></a>
+<a href="https://python-pillow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pillow" alt="Pillow" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
+<a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" /></a>
 
 
 

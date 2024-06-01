@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate software developer from India</h3>
 
+
+
 <div align="center">
 <div align="center">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/348a974bc8c5e83c027d18a0477d8f83d7f8f0d9c9b1b675a2e447591cce20ce/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c6d75692c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c7461696c77696e642c6769742c72">
@@ -15,6 +17,7 @@
         <img src="https://camo.githubusercontent.com/e9e2a928c2840381fa4c5828399ff53f0f4a16e65144037f8c5785630da7df31/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c707974686f6e2c6a6176617363726970742c747970657363726970742c657870726573732c66697265626173652c6d6f6e676f64622c632c6a6176612c6e6578746a732c6d7973716c2c666c61736b" data-canonical-src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" style="max-width: 100%;">
     </a>
 </div>
+    
 <!---
 safwannasir49/safwannasir49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -157,8 +157,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/My%20Striver's%20Profile-0F9D58?style=for-the-badge&logo=strivers&logoColor=white" alt="My Striver's Profile" />
+    <img src="https://img.shields.io/badge/My%20Striver's%20Profile-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="My Striver's Profile" />
 </a>
+
 
 
 

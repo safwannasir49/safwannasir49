@@ -151,6 +151,9 @@ Click on the Badge Icons Below
 
 Click on the Badge Icon Below
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
+    <img src="https://img.shields.io/badge/My%20HackerRank%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="My HackerRank Profile" />
+</a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/u/safwannasir49">
     <img src="https://img.shields.io/badge/My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="My LeetCode Profile" />
 </a>

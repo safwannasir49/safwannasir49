@@ -159,8 +159,9 @@ Click on the Badge Icon Below
     <img src="https://img.shields.io/badge/CoderByte-ADD8E6?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://app.codility.com/programmers/">
-    <img src="https://img.shields.io/badge/Codility-2EC866?style=for-the-badge&logo=codility&logoColor=white" alt="Codility" />
+    <img src="https://img.shields.io/badge/Codility-2EC866?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACzElEQVRoge2YT4iUQRjFf3VtIk04lWkPISdiklUQ4khUEwiXaiVB1ECFBlC5UKg5PcOHHbDHt37fYzvgg+1/L+5zvnPOXe7+e3JUmlkrrO9X+P78N8z/52b/32/2MdzA/wARgsAjwEOAOTgC+AOOAdwDOAacAEwEcA7wDGAaQARsFbqBnvDfv4pI+6M1aZx4zgiCMN9Dx5zlH6zZstI2v/sWcViwb8y3mamH8dv93cl8pOkkW6jsPsk2wZ82CbdfWzKPP9xN7ob8J77vd2HJG9qrD6ymy+gD1hzQCDwIgMHAK8Dm4FvwG8BT4GPgLcAM4BpwATARwDvAMcBpABGwRt4CZgBZwSejD65Dw54HRbC2dmOARzcno28EzEX8cYL7YFFS/yP4H2zr2xW/3T1cRJvvz5VTtU+zzN5aG1sxD+e9v7tJG+ZK9Ql8A4mBHwI+gFoCngDOAbwEpgV8AfAd+At4DvBt8BngNcBPgY+C3wDOAZcAYwFtugZ4BzgHdAS4BrgCzAR4AHwEOgKzAa8CXgZvBn8D/wDyAkMkdV14D+gJPBtzf2V/o9evTzc/MP8A2O/j05eXN6brv7+iqahV7DTHU+Nq0zGBAAAAAElFTkSuQmCC&logoColor=white" alt="Codility" />
 </a>
+
 
 
 

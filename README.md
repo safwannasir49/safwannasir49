@@ -18,29 +18,19 @@ Click on the Badge Icons Below
 
 
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/tensorflow.svg" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pytorch.svg" alt="PyTorch" /></a>
-<a href="https://spacy.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/spacy.svg" alt="spaCy" /></a>
-<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/nltk.svg" alt="NLTK" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/huggingface.svg" alt="Hugging Face" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/numpy.svg" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pandas.svg" alt="Pandas" /></a>
-<a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scipy.svg" alt="SciPy" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/matplotlib.svg" alt="Matplotlib" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/seaborn.svg" alt="Seaborn" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/anaconda.svg" alt="Anaconda" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/flask.svg" alt="Flask" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/fastapi.svg" alt="FastAPI" /></a>
-<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/opencv.svg" alt="OpenCV" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/django.svg" alt="Django" /></a>
-<a href="https://plotly.com/dash/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/dash.svg" alt="Dash" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/plotly.svg" alt="Plotly" /></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/beautifulsoup.svg" alt="BeautifulSoup" /></a>
-<a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scrapy.svg" alt="Scrapy" /></a>
-<a href="https://python-pillow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pillow.svg" alt="Pillow" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/jupyter.svg" alt="Jupyter" /></a>
-<a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/streamlit.svg" alt="Streamlit" /></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://www.techicons.io/icons/mdi_machine-learning" alt="Scikit-Learn" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://www.techicons.io/icons/mdi_tensorflow" alt="TensorFlow" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://www.techicons.io/icons/mdi_pytorch" alt="PyTorch" style="width: 50px; height: 50px;">
+    </a>
+    <!-- Add other technology icons with similar format -->
+</div>
+
 
 
 

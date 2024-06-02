@@ -166,6 +166,32 @@
     </div>
 </div>
 
+
+<h1 align="center">Developer / Forums</h1>
+
+<p align="center">Profile[Click on the Badge Icon Below]</p>
+<div align="center">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.geeksforgeeks.org/user/safwannasir49/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/">
+    <img src="https://img.shields.io/badge/Strivers-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="Strivers" />
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
+    <img src="https://img.shields.io/badge/CoderByte-ADD8E6?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://app.codility.com/programmers/">
+    <img src="https://img.shields.io/badge/Codility-black?style=for-the-badge" alt="Codility" />
+</a>
+</div>
+
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -239,31 +265,6 @@
     </a>
 </div>
     </div>
-
-<h1 align="center">Developer / Forums</h1>
-
-<p align="center">Profile[Click on the Badge Icon Below]</p>
-<div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.geeksforgeeks.org/user/safwannasir49/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://takeuforward.org/">
-    <img src="https://img.shields.io/badge/Strivers-FF0000?style=for-the-badge&logo=strivers&logoColor=white" alt="Strivers" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://coderbyte.com/profile/safwannasir49">
-    <img src="https://img.shields.io/badge/CoderByte-ADD8E6?style=for-the-badge&logo=coderbyte&logoColor=white" alt="CoderByte" />
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://app.codility.com/programmers/">
-    <img src="https://img.shields.io/badge/Codility-black?style=for-the-badge" alt="Codility" />
-</a>
-</div>
 
 
 # Read.Me Stats

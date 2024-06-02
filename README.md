@@ -173,6 +173,32 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
     </a>
+        <h3>Badges</h3>
+        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" alt="Android Studio">
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt="IntelliJ IDEA">
+        </a>
+        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook">
+        </a>
+        <a href="https://atom.io/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&amp;logo=atom&amp;logoColor=white" alt="Atom">
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
+        </a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
+        </a>
+    </div>
+</div>
 </div>
     <div style="margin: 20px;">
         <h3>Databases</h3>

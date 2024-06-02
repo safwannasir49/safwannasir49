@@ -50,7 +50,6 @@
         <h3>Badges</h3>
         <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">
-        <h3>Languages</h3>
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
         </a>
@@ -77,7 +76,6 @@
         </a>
     </div>
 </div>
-
     </div>
   <div style="margin: 20px;">
         <h3>Machine Learning / Deep Learning</h3>

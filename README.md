@@ -195,35 +195,35 @@
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/PyTorch.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/Keras.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/NumPy.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="NumPy" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://icon.icepanel.io/Technology/svg/OpenCV.svg" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-      <a href="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" alt="SciPy" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 60px; height: 40px; margin: 5px;">
-        </a>
+        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="NumPy" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" alt="SciPy" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+    <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 60px; height: 38px; margin: 5px;">
+    </a>
   </div>
   <div align="center">
    <h7>--</h7> 

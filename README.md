@@ -59,6 +59,9 @@
         <a href="https://icon.icepanel.io/Technology/svg/PyTorch.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+         <a href="https://icon.icepanel.io/Technology/svg/Keras.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
          <div style="margin: 20px;">
         <h3>Tools</h3>
         <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">

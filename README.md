@@ -20,16 +20,11 @@ Click on the Badge Icons Below
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://www.techicons.io/icons/mdi_machine-learning" alt="Scikit-Learn" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://www.techicons.io/icons/mdi_tensorflow" alt="TensorFlow" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://www.techicons.io/icons/mdi_pytorch" alt="PyTorch" style="width: 50px; height: 50px;">
+        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px;">
     </a>
     <!-- Add other technology icons with similar format -->
 </div>
+
 
 
 

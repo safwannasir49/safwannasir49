@@ -96,9 +96,9 @@ Click on the Badge Icons Below
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" style="width: 50px; height: 50px;"/>
     </a>
-    [<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=rstudio" alt="RStudio" style="width: 50px; height: 50px;"/>
-    </a>](https://icon.icepanel.io/Technology/svg/RStudio.svg)
+    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" alt="RStudio" style="width: 50px; height: 50px;"/>
+</a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px;"/>
     </a>

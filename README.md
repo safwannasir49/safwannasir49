@@ -55,7 +55,7 @@ Click on the Badge Icons Below
     <a href="https://icon.icepanel.io/Technology/svg/anaconda.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
         <img src="https://icon.icepanel.io/Technology/svg/anaconda.svg" alt="Anaconda" style="width: 50px; height: 50px;">
     </a>
-    <a
+
 
 
 

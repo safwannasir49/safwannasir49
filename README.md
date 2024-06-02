@@ -74,9 +74,6 @@
         <a href="https://icon.icepanel.io/Technology/svg/OpenCV.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" style="width: 50px; height: 50px; margin: 5px;">
         </a>
-       <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="C:\Users\drago\Downloads\icons!.png" alt="SciPy" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
       <a href="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" alt="SciPy" style="width: 50px; height: 50px; margin: 5px;">
         </a>

@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
        <a href="mailto:safwannasir49@gmail.com" target="blank">
-        <img align="center" src="https://www.svgrepo.com/show/502395/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+        <img align="center" src="https://www.svgrepo.com/show/484494/mail-part-2.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
     </a>
     <a href="https://twitter.com/SafwanNasir49" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />

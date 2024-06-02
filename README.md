@@ -18,29 +18,30 @@ Click on the Badge Icons Below
 
 
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-Learn" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
-<a href="https://spacy.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=spacy" alt="spaCy" /></a>
-<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=nltk" alt="NLTK" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
-<a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scipy" alt="SciPy" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
-<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-<a href="https://plotly.com/dash/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=dash" alt="Dash" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" /></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=beautifulsoup" alt="BeautifulSoup" /></a>
-<a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=scrapy" alt="Scrapy" /></a>
-<a href="https://python-pillow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=pillow" alt="Pillow" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
-<a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/tensorflow.svg" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pytorch.svg" alt="PyTorch" /></a>
+<a href="https://spacy.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/spacy.svg" alt="spaCy" /></a>
+<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/nltk.svg" alt="NLTK" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/huggingface.svg" alt="Hugging Face" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/numpy.svg" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pandas.svg" alt="Pandas" /></a>
+<a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scipy.svg" alt="SciPy" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/matplotlib.svg" alt="Matplotlib" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/seaborn.svg" alt="Seaborn" /></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/anaconda.svg" alt="Anaconda" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/flask.svg" alt="Flask" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/fastapi.svg" alt="FastAPI" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/opencv.svg" alt="OpenCV" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/django.svg" alt="Django" /></a>
+<a href="https://plotly.com/dash/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/dash.svg" alt="Dash" /></a>
+<a href="https://plotly.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/plotly.svg" alt="Plotly" /></a>
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/beautifulsoup.svg" alt="BeautifulSoup" /></a>
+<a href="https://scrapy.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/scrapy.svg" alt="Scrapy" /></a>
+<a href="https://python-pillow.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/pillow.svg" alt="Pillow" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/jupyter.svg" alt="Jupyter" /></a>
+<a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://icon.icepanel.io/Technology/svg/streamlit.svg" alt="Streamlit" /></a>
+
 
 
 

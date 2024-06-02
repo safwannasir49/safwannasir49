@@ -36,8 +36,8 @@
 <h1 align="center">Technical Stack</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
-    <div style="text align: center;">
-        <h3 text align:"center">Languages</h3>
+    <div align="center;">
+        <h3>Languages</h3>
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 40px; height: 40px; margin: 5px;">
         </a>

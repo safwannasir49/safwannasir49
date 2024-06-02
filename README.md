@@ -99,7 +99,6 @@
         <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
     </a>
 </div>
-
     <div style="margin: 20px;">
         <h3>Databases</h3>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">

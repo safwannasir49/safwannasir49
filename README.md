@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
        <a href="mailto:safwannasir49@gmail.com" target="blank">
-        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWEWdpizM87tDxZYIEMdZ-trM-ploac1IMQ&s" alt="safwannasir49@gmail.com" height="30" width="40" />
+        <img align="center" src="https://www.flaticon.com/free-icon/new_10829119?related_id=10829119" alt="safwannasir49@gmail.com" height="30" width="40" />
     </a>
     <a href="https://twitter.com/SafwanNasir49" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />

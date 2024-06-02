@@ -60,6 +60,7 @@
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
         </a>
         <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+               <h6>Badge</h6>
     <div style="margin: 20px;">
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">

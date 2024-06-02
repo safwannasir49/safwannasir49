@@ -15,7 +15,7 @@
 <a href="https://twitter.com/SafwanNasir49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" /></a>
 <a href="https://instagram.com/safwan_nasir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" /></a>
-
+<br>
     
 # My Skill Set
 

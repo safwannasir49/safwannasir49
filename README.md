@@ -59,10 +59,11 @@
         <a href="https://icon.icepanel.io/Technology/svg/PyTorch.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 50px; height: 50px; margin: 5px;">
         </a>
-         <a href="https://icon.icepanel.io/Technology/svg/Keras.svg" target="_blank" rel="noopener noreferrer nofollow">
+        <a href="https://icon.icepanel.io/Technology/svg/Keras.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 50px; height: 50px; margin: 5px;">
         </a>
-         <div style="margin: 20px;">
+    </div>
+    <div style="margin: 20px;">
         <h3>Tools</h3>
         <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
@@ -73,11 +74,8 @@
         <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
         </a>
-        <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" alt="RStudio" style="width: 50px; height: 50px; margin: 5px;">
-        </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px; margin: 5px;">
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
         </a>
     </div>
     <div style="margin: 20px;">
@@ -90,6 +88,7 @@
         </a>
     </div>
 </div>
+
 
 # Developer / Forums
 

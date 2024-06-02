@@ -18,7 +18,7 @@
 <br>
 
 
-# My Skill Set
+# Technical Stack
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">
@@ -47,7 +47,6 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
         </a>
-        <h3>Badges</h3>
         <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">

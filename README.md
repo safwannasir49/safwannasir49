@@ -19,7 +19,6 @@
     
 # My Skill Set
 
-# Languages and Tools
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">
         <h3>Languages</h3>

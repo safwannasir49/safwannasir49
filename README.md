@@ -62,6 +62,7 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+    </div>
         <h7>Badges:</h7>
         <div style="margin: 20px;">
             <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -88,7 +89,6 @@
             <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
                 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C Language">
             </a>
-        </div>
     </div>
 </div>
 

@@ -33,7 +33,7 @@
 <br>
 
 
-# Technical Stack
+<h1 align="center>Technical Stack</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">

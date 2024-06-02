@@ -93,9 +93,6 @@
             </a>
     </div>
 </div>
-<div align="center">
-   <h7>--</h7> 
-</div>
 
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
@@ -169,9 +166,6 @@
         <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK" style="width: 75px; height: 25px; margin: 5px;">
     </a>
 </div>
-          <div align="center">
-   <h7>--</h7> 
-</div>
     </div>
     <div align="center">
     <h2 align="center">Tools</h2>
@@ -224,9 +218,6 @@
             <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
         </a>
 </div>
-</div>
-<div align="center">
-   <h7>--</h7> 
 </div>
     <div align="center">
         <h2 align="center">Databases</h2>

@@ -113,7 +113,7 @@
 
 # Developer / Forums
 
-Click on the Badge Icon Below(Profile)
+Profile[Click on the Badge Icon Below]
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />

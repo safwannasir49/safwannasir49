@@ -74,6 +74,9 @@
         <a href="https://icon.icepanel.io/Technology/svg/OpenCV.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+       <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="C:\Users\drago\Downloads\icons!.png" alt="SciPy" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
     </div>
     <div style="margin: 20px;">
     <h3>Tools</h3>

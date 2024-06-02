@@ -19,42 +19,18 @@ Click on the Badge Icons Below
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px;">
+    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <span style="display: inline-block; padding: 5px 10px; background-color: #0078D4; color: #FFFFFF; border-radius: 20px;">Scikit-Learn</span>
     </a>
-    <a href="https://icon.icepanel.io/Technology/svg/tensorflow.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/tensorflow.svg" alt="TensorFlow" style="width: 50px; height: 50px;">
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <span style="display: inline-block; padding: 5px 10px; background-color: #FF6F00; color: #FFFFFF; border-radius: 20px;">TensorFlow</span>
     </a>
-    <a href="https://icon.icepanel.io/Technology/svg/pytorch.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/pytorch.svg" alt="PyTorch" style="width: 50px; height: 50px;">
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <span style="display: inline-block; padding: 5px 10px; background-color: #EE4C2C; color: #FFFFFF; border-radius: 20px;">PyTorch</span>
     </a>
-    <a href="https://icon.icepanel.io/Technology/svg/spacy.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/spacy.svg" alt="spaCy" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/nltk.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/nltk.svg" alt="NLTK" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/huggingface.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/huggingface.svg" alt="Hugging Face" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/numpy.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/numpy.svg" alt="NumPy" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/pandas.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/pandas.svg" alt="Pandas" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/scipy.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/scipy.svg" alt="SciPy" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/matplotlib.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/matplotlib.svg" alt="Matplotlib" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/seaborn.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/seaborn.svg" alt="Seaborn" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/anaconda.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
-        <img src="https://icon.icepanel.io/Technology/svg/anaconda.svg" alt="Anaconda" style="width: 50px; height: 50px;">
-    </a>
+    <!-- Add other technology badges with similar format -->
+</div>
+
 
 
 

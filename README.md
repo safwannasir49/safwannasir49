@@ -64,7 +64,7 @@
         </a>
     </div>
         <div align="center">
-   <<h7>--</h7> 
+   <h7>--</h7> 
             <h7>--</h7>
 </div>
         <div align="center">

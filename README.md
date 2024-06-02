@@ -96,12 +96,28 @@
         <a href="https://keras.io/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt="Keras">
         </a>
+          <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+        </a>
+        <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
+        </a>
+        <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Matplotlib-%230076C6.svg?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib">
+        </a>
+        <a href="https://matplotlib.org/stable/tutorials/introductory/pyplot.html" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Pyplot-%23FFD700.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Pyplot">
+        </a>
         <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/SciPy-%230C5D8C.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy">
         </a>
         <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK">
         </a>
+        
     
 </div>
     </div>

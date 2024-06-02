@@ -39,7 +39,7 @@
     <div style="margin: 20px;">
         <h3>Languages</h3>
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px; margin: 5px;">
+            <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 25px; height: 25px; margin: 5px;">
         </a>
         <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px; margin: 5px;">

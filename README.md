@@ -167,25 +167,25 @@
     <div align="center">
     <h3 align="center">Tools</h3>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 40px; height: 50px; margin: 5px;">
     </a>
     <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     <a href="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     <a href="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
+        <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     </div>
         <div align="center">
@@ -216,10 +216,10 @@
     <div align="center">
         <h3 align="center">Databases</h3>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px; margin: 5px;">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;">
         </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
         </a>
     </div>
         <div align="center">
@@ -235,10 +235,10 @@
 </div>
 
 
-# Developer / Forums
+<h1 align="center">Developer / Forums</h1>
 
-Profile[Click on the Badge Icon Below]
-
+<p align="center">Profile[Click on the Badge Icon Below]</p>
+<div align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
@@ -258,6 +258,7 @@ Profile[Click on the Badge Icon Below]
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://app.codility.com/programmers/">
     <img src="https://img.shields.io/badge/Codility-black?style=for-the-badge" alt="Codility" />
 </a>
+</div>
 
 
 # Read.Me Stats

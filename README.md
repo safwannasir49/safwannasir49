@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Safwannasir" /> </p>
-
 <p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>
 
 
@@ -18,12 +16,11 @@
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" /></a>
 <a href="https://instagram.com/safwan_nasir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" /></a>
 --->
+
+    
 # My Skill Set
 
-# Frameworks, Platforms and Libraries
-Click on the Badge Icons Below
-
-
+# Languages and Tools
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
@@ -35,22 +32,19 @@ Click on the Badge Icons Below
     <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
         <span style="display: inline-block; padding: 5px 10px; background-color: #EE4C2C; color: #FFFFFF; border-radius: 20px;">PyTorch</span>
     </a>
-    <!-- Add other technology badges with similar format -->
-</div>
-
-
-
-
-
-
-
-
-
-# Databases:
-
-
-<div style="display: flex; justify-content: center;">
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    </a>
+     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 0 10px;">
@@ -58,36 +52,6 @@ Click on the Badge Icons Below
     </a>
 </div>
 
-
-
-# Languages
-
-<div align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px;"/>
-    </a>
-</div>
 
 
 # IDEs/EDITORS

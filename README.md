@@ -92,8 +92,8 @@
     </div>
 </div>
 
-  <div style="margin: 20px;">
-        <h3>Machine Learning / Deep Learning</h3>
+  <div align="center">
+        <h3 align="center">Machine Learning / Deep Learning</h3>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px; margin: 5px;">
         </a>
@@ -125,8 +125,7 @@
             <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 70px; height: 50px; margin: 5px;">
         </a>
   </div>
-       <h7>Badges:</h7>
-      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+      <div align="center">
     <div style="margin: 20px;">
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Scikit--Learn-%234AB471.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-Learn">
@@ -165,8 +164,8 @@
     
 </div>
     </div>
-    <div style="margin: 20px;">
-    <h3>Tools</h3>
+    <div align="center">
+    <h3 align="center">Tools</h3>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
     </a>
@@ -189,9 +188,8 @@
         <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
     </a>
     </div>
-    <h7>Badges:</h7>
-        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="margin: 20px;">
+        <div align="center">
+    <div align="center">
         <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" alt="Android Studio">
         </a>
@@ -215,8 +213,8 @@
         </a>
 </div>
 </div>
-    <div style="margin: 20px;">
-        <h3>Databases</h3>
+    <div align="center">
+        <h3 align="center">Databases</h3>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px; margin: 5px;">
         </a>
@@ -224,9 +222,8 @@
             <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
         </a>
     </div>
-    <h7>Badges:</h7>
-        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="margin: 20px;">
+        <div align="center">
+    <div align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
         </a>

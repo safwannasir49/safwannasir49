@@ -93,6 +93,78 @@
             </a>
     </div>
 </div>
+    <div align="center">
+    <h2 align="center">Tools</h2>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 40px; height: 40px; margin: 5px;">
+    </a>
+    </div>
+    <div align="center">
+   <h7>--</h7> 
+</div>
+        <div align="center">
+    <div align="center">
+        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" alt="Android Studio">
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt="IntelliJ IDEA">
+        </a>
+        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook">
+        </a>
+        <a href="https://atom.io/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&amp;logo=atom&amp;logoColor=white" alt="Atom">
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
+        </a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
+        </a>
+</div>
+</div>
+    <div align="center">
+        <h2 align="center">Databases</h2>
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
+        </a>
+    </div>
+        <div align="center">
+    <div align="center">
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+        </a>
+</div>
+    </div>
+</div>
 
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
@@ -167,78 +239,6 @@
     </a>
 </div>
     </div>
-    <div align="center">
-    <h2 align="center">Tools</h2>
-    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 40px; height: 40px; margin: 5px;">
-    </a>
-    </div>
-    <div align="center">
-   <h7>--</h7> 
-</div>
-        <div align="center">
-    <div align="center">
-        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" alt="Android Studio">
-        </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" alt="IntelliJ IDEA">
-        </a>
-        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook">
-        </a>
-        <a href="https://atom.io/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&amp;logo=atom&amp;logoColor=white" alt="Atom">
-        </a>
-        <a href="https://github.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-        </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
-        </a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
-        </a>
-</div>
-</div>
-    <div align="center">
-        <h2 align="center">Databases</h2>
-        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
-        </a>
-    </div>
-        <div align="center">
-    <div align="center">
-        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-        </a>
-</div>
-    </div>
-</div>
 
 <h1 align="center">Developer / Forums</h1>
 

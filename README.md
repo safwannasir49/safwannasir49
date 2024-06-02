@@ -47,6 +47,37 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+        <h3>Badges</h3>
+        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <h3>Languages</h3>
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+        </a>
+        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Java-%23FF5722.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+        </a>
+        <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+        </a>
+        <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C Language">
+        </a>
+    </div>
+</div>
+
     </div>
   <div style="margin: 20px;">
         <h3>Machine Learning / Deep Learning</h3>

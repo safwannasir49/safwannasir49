@@ -109,7 +109,6 @@
             <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 70px; height: 50px; margin: 5px;">
         </a>
       <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-          <h3>Badges</h3>
     <div style="margin: 20px;">
         </div>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -172,7 +171,7 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
     </a>
-        <h3>Badges</h3>
+        <h5>Badges</h5>
         <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 20px;">
         <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">

@@ -208,6 +208,18 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+        <h3>Badges</h3>
+        <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+        </a>
+    </div>
+</div>
+
     </div>
 </div>
 

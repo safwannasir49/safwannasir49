@@ -64,9 +64,7 @@
         </a>
     </div>
         <div align="center">
-        # -
    <h7>--</h7> 
-            <h8>--</h8>
 </div>
         <div align="center">
             <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -94,6 +92,9 @@
                 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C Language">
             </a>
     </div>
+</div>
+<div align="center">
+   <h7>--</h7> 
 </div>
 
   <div align="center">
@@ -129,6 +130,9 @@
             <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 60px; height: 40px; margin: 5px;">
         </a>
   </div>
+  <div align="center">
+   <h7>--</h7> 
+</div>
       <div align="center">
     <div style="margin: 20px;">
     <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -165,6 +169,9 @@
         <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK" style="width: 75px; height: 25px; margin: 5px;">
     </a>
 </div>
+          <div align="center">
+   <h7>--</h7> 
+</div>
     </div>
     <div align="center">
     <h2 align="center">Tools</h2>
@@ -190,6 +197,9 @@
         <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 40px; height: 40px; margin: 5px;">
     </a>
     </div>
+    <div align="center">
+   <h7>--</h7> 
+</div>
         <div align="center">
     <div align="center">
         <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
@@ -215,6 +225,9 @@
         </a>
 </div>
 </div>
+<div align="center">
+   <h7>--</h7> 
+</div>
     <div align="center">
         <h2 align="center">Databases</h2>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
@@ -235,7 +248,6 @@
 </div>
     </div>
 </div>
-
 
 <h1 align="center">Developer / Forums</h1>
 

@@ -80,6 +80,30 @@
         <a href="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 70px; height: 50px; margin: 5px;">
         </a>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        </div>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Scikit--Learn-%234AB471.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-Learn">
+        </a>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow">
+        </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch">
+        </a>
+        <a href="https://keras.io/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt="Keras">
+        </a>
+        <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/SciPy-%230C5D8C.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy">
+        </a>
+        <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK">
+        </a>
+    
+</div>
+
     </div>
     <div style="margin: 20px;">
     <h3>Tools</h3>

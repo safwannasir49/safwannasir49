@@ -48,8 +48,15 @@ Click on the Badge Icons Below
 # Databases:
 
 
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<div style="text-align: center;">
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/mysql.svg" alt="MySQL" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/mongodb.svg" alt="MongoDB" />
+    </a>
+</div>
+
 
 # Languages
 

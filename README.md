@@ -203,9 +203,6 @@
     <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 38px; height: 38px; margin: 5px;">
     </a>
-    <a href="https://keras.io/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 38px; height: 38px; margin: 5px;">
-    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" style="width: 38px; height: 38px; margin: 5px;">
     </a>
@@ -220,6 +217,9 @@
     </a>
     <a href="https://www.scipy.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" alt="SciPy" style="width: 38px; height: 38px; margin: 5px;">
+    </a>
+       <a href="https://keras.io/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 38px; height: 38px; margin: 5px;">
     </a>
     <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 60px; height: 38px; margin: 5px;">

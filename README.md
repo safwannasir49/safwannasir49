@@ -78,7 +78,7 @@
             <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/scipy-icon.png" alt="SciPy" style="width: 50px; height: 50px; margin: 5px;">
         </a>
         <a href="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 100px; height: 50px; margin: 5px;">
+            <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="NLTK" style="width: 70px; height: 50px; margin: 5px;">
         </a>
     </div>
     <div style="margin: 20px;">

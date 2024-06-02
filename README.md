@@ -158,7 +158,7 @@
         <img src="https://img.shields.io/badge/SciPy-%230C5D8C.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy" style="width: 90px; height: 30px; margin: 5px;">
     </a>
     <a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK" style="width: 90px; height: 25px; margin: 5px;">
+        <img src="https://img.shields.io/badge/NLTK-%2342B029.svg?style=for-the-badge&amp;logo=nltk&amp;logoColor=white" alt="NLTK" style="width: 90px; height: 30px; margin: 5px;">
     </a>
 </div>
     </div>

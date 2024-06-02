@@ -63,7 +63,7 @@
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 40px; height: 40px; margin: 5px;">
         </a>
     </div>
-        <div style="text-align: center;">
+        <div align="center">
     <h7>Badges:</h7>
 </div>
         <div align="center">

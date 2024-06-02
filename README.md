@@ -93,7 +93,7 @@
 </div>
 
   <div align="center">
-        <h3 align="center">Machine Learning / Deep Learning</h3>
+        <h2 align="center">Machine Learning / Deep Learning</h2>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 40px; height: 40px; margin: 5px;">
         </a>
@@ -163,7 +163,7 @@
 </div>
     </div>
     <div align="center">
-    <h3 align="center">Tools</h3>
+    <h2 align="center">Tools</h2>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 40px; height: 40px; margin: 5px;">
     </a>
@@ -212,7 +212,7 @@
 </div>
 </div>
     <div align="center">
-        <h3 align="center">Databases</h3>
+        <h2 align="center">Databases</h2>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;">
         </a>

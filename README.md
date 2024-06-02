@@ -15,50 +15,76 @@
 <a href="https://twitter.com/SafwanNasir49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" /></a>
 <a href="https://instagram.com/safwan_nasir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" /></a>
---->
 
     
 # My Skill Set
 
 # Languages and Tools
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
-    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" alt="RStudio" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px; margin: 5px;">
-    </a>
+    <div style="margin: 20px;">
+        <h3>Languages</h3>
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=dart" alt="Dart" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <h3>Tools</h3>
+        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" alt="RStudio" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://icon.icepanel.io/Technology/svg/PyTorch.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+    </div>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 20px;">
-    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 5px;">
-        <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 5px;">
-        <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://icon.icepanel.io/Technology/svg/PyTorch.svg" target="_blank" rel="noopener noreferrer nofollow" style="margin: 5px;">
-        <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 5px;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer nofollow" style="margin: 5px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;">
-    </a>
-</div>
-
 
 
 # Developer / Forums

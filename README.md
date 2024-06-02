@@ -64,7 +64,7 @@
         </a>
     </div>
         <h7>Badges:</h7>
-        <div style="margin: 20px;">
+        <div align="center">
             <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
                 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
             </a>

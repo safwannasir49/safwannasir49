@@ -48,7 +48,7 @@
             <img src="https://skillicons.dev/icons?i=c" alt="C Language" style="width: 50px; height: 50px; margin: 5px;">
         </a>
     </div>
-    <div style="margin: 20px;">
+  <div style="margin: 20px;">
         <h3>Machine Learning / Deep Learning</h3>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 50px; height: 50px; margin: 5px;">
@@ -62,22 +62,37 @@
         <a href="https://icon.icepanel.io/Technology/svg/Keras.svg" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" style="width: 50px; height: 50px; margin: 5px;">
         </a>
+        <a href="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://icon.icepanel.io/Technology/svg/NumPy.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="NumPy" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
+        <a href="https://icon.icepanel.io/Technology/svg/OpenCV.svg" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" style="width: 50px; height: 50px; margin: 5px;">
+        </a>
     </div>
     <div style="margin: 20px;">
-        <h3>Tools</h3>
-        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
-        </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px; margin: 5px;">
-        </a>
-        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
-        </a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" alt="PyCharm" style="width: 50px; height: 50px; margin: 5px;">
-        </a>
-    </div>
+    <h3>Tools</h3>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
+    <a href="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
+    <a href="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" style="width: 50px; height: 50px; margin: 5px;">
+    </a>
+</div>
     <div style="margin: 20px;">
         <h3>Databases</h3>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">

@@ -13,7 +13,7 @@
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/safwannasir49/safwannasir49)]
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
 <h3 align="center">Connect with me:</h3>
 <p align="center">

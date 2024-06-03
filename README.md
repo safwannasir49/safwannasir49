@@ -1,8 +1,8 @@
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
-[![Yearly Commits](https://img.shields.io/badge/yearly%20commits-100-blueviolet?style=flat-square)](https://badges.pufler.dev/commits/yearly/safwannasir49)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
+[![Commits This Year](https://img.shields.io/badge/commits%20this%20year-100-blueviolet?style=flat-square)](https://badges.pufler.dev/commits/yearly/safwannasir49)
+[![Commits This Month](https://img.shields.io/badge/commits%20this%20month-50-blue?style=flat-square)](https://badges.pufler.dev/commits/monthly/safwannasir49)
+[![All Commits](https://img.shields.io/badge/all%20commits-500-brightgreen?style=flat-square)](https://badges.pufler.dev/commits/total/safwannasir49)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&pause=1000&color=73AEF7&center=true&random=false&width=500&height=80&lines=Hello+!"/>

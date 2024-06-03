@@ -36,9 +36,6 @@
 
 <h1 align="center">Technical Stack</h1>
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
    <div align = "center">
@@ -270,7 +267,10 @@
     </a>
 </div>
     </div>
-
+    
+[![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
 
 # Read.Me Stats
 

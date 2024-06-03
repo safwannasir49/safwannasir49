@@ -1,7 +1,7 @@
-
+[![All Commits](https://img.shields.io/badge/all%20commits-500-bluevoilet?style=flat-square)](https://badges.pufler.dev/commits/total/safwannasir49)
 [![Commits This Year](https://img.shields.io/badge/commits%20this%20year-100-blueviolet?style=flat-square)](https://badges.pufler.dev/commits/yearly/safwannasir49)
-[![Commits This Month](https://img.shields.io/badge/commits%20this%20month-50-blue?style=flat-square)](https://badges.pufler.dev/commits/monthly/safwannasir49)
-[![All Commits](https://img.shields.io/badge/all%20commits-500-brightgreen?style=flat-square)](https://badges.pufler.dev/commits/total/safwannasir49)
+[![Commits This Month](https://img.shields.io/badge/commits%20this%20month-50-bluevoilet?style=flat-square)](https://badges.pufler.dev/commits/monthly/safwannasir49)
+
 
 
 <h1 align="center">

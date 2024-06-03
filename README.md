@@ -1,6 +1,7 @@
 
 [![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
+[![Yearly Commits](https://img.shields.io/badge/yearly%20commits-100-blueviolet?style=flat-square)](https://badges.pufler.dev/commits/yearly/safwannasir49)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
 
 <h1 align="center">

@@ -13,9 +13,7 @@
 
 
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
        <a href="mailto:safwannasir49@gmail.com" target="blank">
@@ -31,7 +29,9 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" />
     </a>
 </p>
-
+[![Commits Badge](https://badges.pufler.dev/commits/all/safwannasir49)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/safwannasir49)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/safwannasir49)](https://badges.pufler.dev)
 <br>
 
 

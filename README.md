@@ -1,4 +1,4 @@
-[![All Commits](https://badges.pufler.dev/commits/All/safwannasir49?color=blueviolet&style=flat-square)](https://badges.pufler.dev)
+[![All Commits](https://badges.pufler.dev/commits/all/safwannasir49?color=blueviolet&style=flat-square)](https://badges.pufler.dev)
 [![Commits This Year](https://badges.pufler.dev/commits/yearly/safwannasir49?color=blueviolet&style=flat-square)](https://badges.pufler.dev)
 [![Commits This Month](https://badges.pufler.dev/commits/monthly/safwannasir49?color=blueviolet&style=flat-square)](https://badges.pufler.dev)
 

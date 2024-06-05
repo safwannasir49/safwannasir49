@@ -277,7 +277,7 @@
 <div align="center">
 <h1>Read.Me Stats</h1> 
 
-https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=radical
+![Github stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=radical)
 
 
 </div>

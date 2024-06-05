@@ -274,41 +274,26 @@
     </div>
     
 
-<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; width: 882px;" class="mt-4">
   <hr />
   <h2 align="center">Read.Me Stats</h2>
   <tbody>  
     <tr>
-        <td style="width: 441;" align="center" >
-            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github"/>
-        </td> 
-        <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" />
+        <td style="width: 441px;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
+        </td>
+        <td style="width: 441px;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" alt="Top Languages"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 441px;" align="center" colspan="2">
+            <img src="https://streak-stats.demolab.com/?user=safwannasir49&theme=dark" alt="GitHub Streak"/>
         </td>
     </tr>
   </tbody>
 </table>
 
-
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark)](https://github.com/safwannasir49)
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-safwannasir49.vercel.app/?user=safwannasir49&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-safwannasir49.vercel.app/api username=safwannasir49&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-safwannasir49.vercel.app/api/top-langs/?username=safwannasir49&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
-[![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwannasir49)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github)](https://github.com/safwannasir49)
 
 
 

@@ -153,6 +153,7 @@
         </a>
 </div>
 </div>
+<hr/>
     <div align="center">
         <h2 align="center">Databases</h2>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">

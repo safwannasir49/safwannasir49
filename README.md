@@ -279,12 +279,12 @@
   <h2 align="center">Read.Me Stats</h2>
   <tbody>  
     <tr>
-        <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" />
-        </td>
         <td style="width: 441;" align="center" >
             <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark"/>
         </td> 
+        <td style="width: 441;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" />
+        </td>
     </tr>
   </tbody>
 </table>

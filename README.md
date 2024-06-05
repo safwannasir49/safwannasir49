@@ -276,7 +276,7 @@
 
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
-  <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
+  <h2 align="center">Read.Me Stats</h2>
   <tbody>  
     <tr>
         <td style="width: 441;" align="center">

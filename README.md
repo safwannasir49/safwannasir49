@@ -307,6 +307,9 @@
 [![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwannasir49)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github)](https://github.com/safwannasir49)
+
 
 
 

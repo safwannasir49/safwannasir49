@@ -304,7 +304,7 @@
     </tr>
     <tr>
         <td style="width: 100%;" align="center" colspan="2">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannasir49" alt="GitHub Activity Graph"/>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannasir49&theme=react" alt="GitHub Activity Graph"/>
         </td>
     </tr>
   </tbody>

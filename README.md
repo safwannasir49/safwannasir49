@@ -100,6 +100,7 @@
             </a>
     </div>
 </div>
+<hr/>
     <div align="center">
     <h2 align="center">Tools</h2>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
@@ -173,7 +174,7 @@
     </div>
 </div>
 
-
+<hr/>
 <h1 align="center">Developer / Forums</h1>
 
 <p align="center">Profile[Click on the Badge Icon Below]</p>
@@ -198,7 +199,7 @@
     <img src="https://img.shields.io/badge/Codility-black?style=for-the-badge" alt="Codility" />
 </a>
 </div>
-
+<hr/>
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
@@ -282,7 +283,6 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
     
 
 <table border="0" style="margin-top:30px; border:0px; width: 882px;" class="mt-4">

@@ -292,7 +292,7 @@
 
 
 
-![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&hide=contribs,prs)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark)](https://github.com/safwannasir49)
 
 
 

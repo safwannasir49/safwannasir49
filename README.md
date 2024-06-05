@@ -285,26 +285,31 @@
 </div>
 
     
-
-<table border="0" style="margin-top:30px; border:0px; width: 882px;" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
   <hr />
   <h2 align="center">Read.Me Stats</h2>
   <tbody>  
     <tr>
-        <td style="width: 441px;" align="center">
+        <td style="width: 50%;" align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
         </td>
-        <td style="width: 441px;" align="center">
+        <td style="width: 50%;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" alt="Top Languages"/>
         </td>
     </tr>
     <tr>
-        <td style="width: 441px;" align="center" colspan="2">
+        <td style="width: 100%;" align="center" colspan="2">
             <img src="https://streak-stats.demolab.com/?user=safwannasir49&theme=dark" alt="GitHub Streak"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100%;" align="center" colspan="2">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannasir49" alt="GitHub Activity Graph"/>
         </td>
     </tr>
   </tbody>
 </table>
+
 
 
 

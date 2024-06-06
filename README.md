@@ -299,6 +299,7 @@
 <div>
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
+    <hr/ size=6>
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">

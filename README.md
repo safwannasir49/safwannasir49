@@ -296,7 +296,7 @@
     <hr/>    
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
   <hr />
-  <h2 align="center">Read.Me Stats</h2>
+ <h2 align="center">Read.Me Stats</h2>
 <table>
   <tbody>  
     <tr>
@@ -314,11 +314,19 @@
     </tr>
     <tr>
         <td style="width: 100%;" align="center" colspan="2">
+            <a href="https://github.com/safwannasir49">
+                <img alt="Safwan Nasir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=safwannasir49&show_icons=true&count_private=true&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100%;" align="center" colspan="2">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwannasir49&theme=react" alt="GitHub Activity Graph"/>
         </td>
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=LXGW+WenKai+Mono+TC&pause=900&color=73AEF7&background=4EFFFD00&center=true&random=false&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Safwan+Nasir!;A+Fervent+AI+Devoleper;Data+visualization+Specialist!;Implementing+new+AI%2FML+algorithms;A+Problem+Solver!;An+Efficient+Speaker."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=LXGW+WenKai+Mono+TC&pause=900&color=73AEF7&background=4EFFFD00&center=true&random=false&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Fervent+AI+Devoleper;Data+visualization+Specialist!;Implementing+new+AI%2FML+algorithms;A+Problem+Solver!;An+Efficient+Speaker."/>
 </h1>
 
 

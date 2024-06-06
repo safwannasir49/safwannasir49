@@ -4,10 +4,10 @@
 
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-
+<hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=LXGW+WenKai+Mono+TC&pause=900&color=73AEF7&background=4EFFFD00&center=true&random=false&width=450&lines=Hi+There!+%F0%9F%91%8B;I'm+Fervent+AI+Devoleper;Data+visualization+Specialist!;Implementing+new+AI%2FML+algorithms;A+Problem+Solver!;An+Efficient+Speaker."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=LXGW+WenKai+Mono+TC&pause=900&color=73AEF7&background=4EFFFD00&center=true&random=false&width=450&lines=I'm+Fervent+%F0%9F%91%8B;+AI+Devoleper;Data+visualization+Specialist!;Implementing+new+AI%2FML+algorithms;A+Problem+Solver!;An+Efficient+Speaker."/>
 </h1>
 
 

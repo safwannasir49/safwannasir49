@@ -30,15 +30,16 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+
 🌐 Enhancing my skills in Cloud Computing and Cyber Security
 
-🛠️ Explore my portfolio and projects at [!My Portfolio]
+🛠️ Explore my portfolio and projects at [My Portfolio]
 
-🧑‍🏫 Happy to help with Java, Python , AI/ML
+🧑‍🏫 Happy to help with Java, Python, AI/ML
 
 📧 Connect with me at safwannasir49@gmail.com
 
-📜 Discover my professional journey here
+📜 Discover my professional journey [here]
 
 🎲 Fun fact: I'm a puzzle enthusiast and love board games
 
@@ -51,14 +52,10 @@
 
 <hr/>
 
-
-
 <h1 align="center">I'm Safwan Nasir !</h1>
 <h3 align="center">A passionate Programmer</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
-
-
 
 
 <h3 align="center">Connect with me:</h3>

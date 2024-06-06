@@ -297,6 +297,7 @@
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
   <hr />
   <h2 align="center">Read.Me Stats</h2>
+<table>
   <tbody>  
     <tr>
         <td style="width: 50%;" align="center">
@@ -318,6 +319,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 

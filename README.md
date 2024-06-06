@@ -301,7 +301,7 @@
   <tbody>  
     <tr>
         <td style="width: 50%;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"/>
         </td>
         <td style="width: 50%;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" alt="Top Languages"/>
@@ -310,13 +310,6 @@
     <tr>
         <td style="width: 100%;" align="center" colspan="2">
             <img src="https://streak-stats.demolab.com/?user=safwannasir49&theme=dark" alt="GitHub Streak"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100%;" align="center" colspan="2">
-            <a href="https://github.com/safwannasir49">
-                <img alt="Safwan Nasir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=safwannasir49&show_icons=true&count_private=true&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-            </a>
         </td>
     </tr>
     <tr>

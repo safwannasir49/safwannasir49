@@ -15,13 +15,13 @@
 <!--<p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>-->
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
   
 </div>
 <hr/>

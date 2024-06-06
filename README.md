@@ -22,7 +22,7 @@
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="70" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" />
 </div>
 <hr/>
 

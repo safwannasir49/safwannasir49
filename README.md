@@ -51,15 +51,10 @@
 
 <br>
 
-🎲 Fun fact: I'm a puzzle enthusiast and love board games
-
-<br>
-
 🌱 Passionate about learning Machine Learning and Artificial Intelligence
 
 <br>
 
-💬 Let's discuss Open Source Contributions and Community Building
 
 <br><br>
 

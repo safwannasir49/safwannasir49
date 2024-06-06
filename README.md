@@ -30,11 +30,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-🌐 Enhancing my skills in Cloud Computing and DevOps
+🌐 Enhancing my skills in Cloud Computing and Cyber Security
 
-🛠️ Explore my portfolio and projects at My Portfolio
+🛠️ Explore my portfolio and projects at [!My Portfolio]
 
-🧑‍🏫 Happy to help with Java, Python, PHP, NodeJS, and DevOps
+🧑‍🏫 Happy to help with Java, Python , AI/ML
 
 📧 Connect with me at safwannasir49@gmail.com
 

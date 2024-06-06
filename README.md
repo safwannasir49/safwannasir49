@@ -296,12 +296,27 @@
     <hr/>    
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
   <hr />
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=safwannasir49&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=safwannasir49&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
  <h2 align="center">Read.Me Stats</h2>
 <table>
   <tbody>  
     <tr>
         <td style="width: 50%;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=safwannasir49&count_private=true&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"/>
         </td>
         <td style="width: 50%;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannasir49&theme=dark&layout=compact&langs_count=10" alt="Top Languages"/>
@@ -319,6 +334,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 

@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1bGO_f8l3_Vx6Pf0mVf2pJuOIg5n9IGjH" width="50%">
+    <img src="https://dl.dropboxusercontent.com/s/hfmstk52h3hu71i52e8q8/SN.gif" width="50%">
 </p>
 
 

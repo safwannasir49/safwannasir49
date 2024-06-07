@@ -9,9 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Jost&pause=1000&center=true&random=false&width=435&lines=I'm+a+Fervent+AI+Developer!"/>
 </h1>
 
-<p align="center">
-    <img src="https://dl.dropboxusercontent.com/s/hfmstk52h3hu71i52e8q8/SN.gif" width="50%">
-</p>
+![logo](SN.gif)
 
 
 <!--<p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>-->

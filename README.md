@@ -11,7 +11,9 @@
 
 ![logo](SN.gif)
 
+![logo](SN(1).gif)
 
+![logo](SN.png)
 <!--<p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>-->
 
 <div align="center">

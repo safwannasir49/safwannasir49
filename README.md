@@ -357,6 +357,9 @@
  </div>
 </div>
  <br><br>
+ <p>
+     <img src="gif.gif">
+ </p>
  <h2 align="center">Read.Me Stats</h2>
 <table>
   <tbody>  

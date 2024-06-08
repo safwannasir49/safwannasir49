@@ -37,7 +37,7 @@
 
 <br>
 
-🛠️ Explore my portfolio and projects at [!My Portfolio](https://safwannasir49.github.io/Portfolio)
+🛠️ Explore my portfolio and projects at [portfolio.svg](https://safwannasir49.github.io/Portfolio)
 
 <br>
 

@@ -37,7 +37,7 @@
 
 <br>
 
-🛠️ Explore my portfolio and projects at <a href="https://safwannasir49.github.io/Portfolio" target="_blank"><img src="https://iconscout.com/free-icon/portfolio-1511044"></a>
+🛠️ Explore my portfolio and projects at <a href="https://safwannasir49.github.io/Portfolio" target="_blank"><img src="https://icon-icons.com/icon/portfolio-suitcase-graphic-design/52927"></a>
 
 
 

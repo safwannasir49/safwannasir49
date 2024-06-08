@@ -37,8 +37,8 @@
 
 <br>
 
-🛠️ Explore my portfolio and projects at <a href="https://safwannasir49.github.io/Portfolio" target="_blank"><img src="https://iconscout.com/contributors/mark-aventura" class="text-underline font-size-sm" target="_blank">
-</a>
+🛠️ Explore my portfolio and projects at <a href="https://safwannasir49.github.io/Portfolio" target="_blank"><img src="https://iconscout.com/free-icon/portfolio-1511044"></a>
+
 
 
 <br>

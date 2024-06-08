@@ -45,7 +45,10 @@
 
 <br>
 
-📧 Connect with me at safwannasir49@gmail.com
+<a href="mailto:safwannasir49@gmail.com" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+</a> and 📧 Connect with me at <a href="mailto:safwannasir49@gmail.com">safwannasir49@gmail.com</a>
+
 
 <br>
 

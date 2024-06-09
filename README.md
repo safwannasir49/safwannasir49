@@ -218,6 +218,18 @@
         <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm">
         </a>
+        <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word">
+</a>
 </div>
 </div>
 <hr/>

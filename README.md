@@ -191,6 +191,15 @@
         <a href="https://app.powerbi.com/singleSignOn?clientSideAuth=0&ru=https%3a%2f%2fapp.powerbi.com%2f%3fclientSideAuth%3d0%26noSignUpCheck%3d1" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" style="width: 40px; height: 40px; margin: 5px;">
     </a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" alt="Microsoft PowerPoint" style="width: 40px; height: 40px; margin: 5px;">
+</a>
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Microsoft Excel" style="width: 40px; height: 40px; margin: 5px;">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg" alt="Microsoft Word" style="width: 40px; height: 40px; margin: 5px;">
+</a>
     </div>
     <div align="center">
    <h7>--</h7> 

@@ -387,7 +387,7 @@
 </div>
  <br><br>
  <p>
-     <img src="gif.gif">
+     <img src="name.png">
  </p>
  <h2 align="center">Read.Me Stats</h2>
 <table>

@@ -384,7 +384,8 @@
   </tbody>
 </table>
 
-# My Contributions
+<h1 align="center">My Contributions</h1>
+                                       
 ![snake gif](https://github.com/safwannasir49/safwannasir49/blob/output/github-contribution-grid-snake.gif)
 
 

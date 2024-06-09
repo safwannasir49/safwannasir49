@@ -384,11 +384,13 @@
   </tbody>
 </table>
 
-<h1 align="center">My Contributions</h1>
-                                       
-![snake gif](https://github.com/safwannasir49/safwannasir49/blob/output/github-contribution-grid-snake.gif)
-
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/safwannasir49/safwannasir49/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <hr/>
 <p>
     <img src="SAFWANNASIR.png">

@@ -366,23 +366,23 @@
 <hr/>
 <div align="center">
 <a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Leetcode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode 75" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Leetcode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode 75" style="height: 25px;">
 </a><a href="https://github.com/yourusername/top-100-liked" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%20100%20Liked-%238E44AD.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 100 Liked" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%20100%20Liked-%238E44AD.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 100 Liked" style="height: 25px;">
 </a><a href="https://github.com/yourusername/top-interview-150" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%20Interview%20150-%234CAF50.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top Interview 150" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%20Interview%20150-%234CAF50.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top Interview 150" style="height: 25px;">
 </a><a href="https://github.com/safwannasir49/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/100%20Days%20of%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Python" style="height: 30px;">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Python" style="height: 25px;">
 </a><a href="https://github.com/yourusername/30-days-of-pandas" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%231506F0.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="30 Days of Pandas" style="height: 30px;">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%231506F0.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="30 Days of Pandas" style="height: 25px;">
 </a><a href="https://github.com/yourusername/30-days-of-js" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="30 Days of JS" style="height: 30px;">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="30 Days of JS" style="height: 25px;">
 </a><a href="https://github.com/yourusername/100-days-of-machine-learning" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/100%20Days%20of%20Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Machine Learning" style="height: 30px;">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Machine Learning" style="height: 25px;">
 </a><a href="https://github.com/yourusername/100-days-of-web-development" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/100%20Days%20of%20Web%20Development-%2300ADD8.svg?style=for-the-badge&logo=html5&logoColor=white" alt="100 Days of Web Development" style="height: 30px;">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Web%20Development-%2300ADD8.svg?style=for-the-badge&logo=html5&logoColor=white" alt="100 Days of Web Development" style="height: 25px;">
 </a><a href="https://github.com/yourusername/100-days-of-data-analytics" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 30px;">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
 <hr/>
     <h1>Curated DSA List</h1>
@@ -390,21 +390,18 @@
 <div align="center">
 
 <a href="https://leetcode.com/problemset/all/?topicSlugs=tree" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20Tree-%233776AB.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Tree" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20Tree-%233776AB.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Tree" style="height: 25px;">
 </a><a href="https://leetcode.com/problemset/all/?topicSlugs=graph" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20Graph-%23FF6F00.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Graph" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20Graph-%23FF6F00.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Graph" style="height: 25px;">
 </a><a href="https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20DP-%23EE4C2C.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 DP" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20DP-%23EE4C2C.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 DP" style="height: 25px;">
 </a><a href="https://leetcode.com/problemset/all/?topicSlugs=string" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20String-%2312100E.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 String" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20String-%2312100E.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 String" style="height: 25px;">
 </a><a href="https://leetcode.com/problemset/all/?topicSlugs=array" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20Array-%230076C6.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Array" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20Array-%230076C6.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Array" style="height: 25px;">
 </a><a href="https://leetcode.com/problemset/all/?difficulty=Easy" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%2050%20Beginner-%23D00000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Beginners" style="height: 30px;">
-</a><a href="https://docs.google.com/spreadsheets/d/1YJQc3BuEWkDjK3sP8ik6hF0LvBZpr3xrAsNJYZkRZ4I/edit#gid=0" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/ISA%20Sheet-%23150458.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="ISA Sheet" style="height: 30px;">
+    <img src="https://img.shields.io/badge/Top%2050%20Beginner-%23D00000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Beginners DSA Sheet" style="height: 25px;">
 </a>
-
 </div>
 <hr/>
 <p>

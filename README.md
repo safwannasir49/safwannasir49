@@ -363,10 +363,6 @@
 <div align="center">
     <a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Leetcode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode 75" style="height: 30px;">
-</a><a href="https://www.hackerrank.com/yourprofile" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="height: 30px;">
-</a><a href="https://leetcode.com/yourprofile" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/LeetCode-%230074C1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 30px;">
 </a><a href="https://github.com/yourusername/top-100-liked" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Top%20100%20Liked-%238E44AD.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 100 Liked" style="height: 30px;">
 </a><a href="https://github.com/yourusername/top-interview-150" target="_blank" rel="noopener noreferrer nofollow">

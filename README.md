@@ -347,7 +347,12 @@
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="height: 25px;">
 </a><a href="https://opencv.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;">
+</a><a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Beautiful%20Soup-%23FFD700.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white" alt="Beautiful Soup" style="height: 25px;">
+</a><a href="https://docs.python-requests.org/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Requests-%2300CCFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Requests" style="height: 25px;">
 </a>
+
 
 </div>
     </div>

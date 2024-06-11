@@ -105,9 +105,9 @@
 
 <h1 align="center">Technical Stack</h1>
 <div align="center">
-    <p>(Click On the Bagdes Below ⬇️)<</p>
+    <p>(Click On the below Bagde icons ⬇️)</p>
 </div>
-
+<br>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
    <div align = "center">
         <h2 align="center">Languages</h2>

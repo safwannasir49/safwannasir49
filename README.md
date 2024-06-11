@@ -371,8 +371,8 @@
     <div>
 <h1 align="center">Challanges</h1>
 <hr/>
-<a href="https://github.com/yourusername/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/100%20Days%20of%20Python-Challenge-orange?style=for-the-badge" alt="100 Days of Python" style="width: 150px; height: 25px; margin: 5px;">
+<a href="https://github.com/safwammasir49/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Python-Challenge-orange?style=for-the-badge" alt="100 Days of Python" style="width: 200px; height: 50px; margin: 5px;">
 </a>
 </div>
     <hr/>

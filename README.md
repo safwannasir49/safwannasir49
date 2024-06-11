@@ -389,10 +389,6 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Web%20Development-%2300ADD8.svg?style=for-the-badge&logo=html5&logoColor=white" alt="100 Days of Web Development" style="width: 250px; height: 30px;">
 </a><a href="https://github.com/yourusername/100-days-of-machine-learning" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Machine Learning" style="width: 250px; height: 30px;">
-</a><a href="https://www.hackerrank.com/yourprofile" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="width: 150px; height: 30px;">
-</a><a href="https://leetcode.com/yourprofile" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/LeetCode-%230074C1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="width: 150px; height: 30px;">
 </a>
 </div>
 <hr/>

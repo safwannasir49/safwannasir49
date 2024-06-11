@@ -388,7 +388,19 @@
     <h1>Curated DSA List</h1>
 <hr/>
 <div align="center">
-
+<a href="https://leetcode.com/problemset/all/?topicSlugs=tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20Tree-%233776AB.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Tree" style="height: 25px;">
+</a><a href="https://leetcode.com/problemset/all/?topicSlugs=graph" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20Graph-%23FF6F00.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Graph" style="height: 25px;">
+</a><a href="https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20DP-%23EE4C2C.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 DP" style="height: 25px;">
+</a><a href="https://leetcode.com/problemset/all/?topicSlugs=string" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20String-%2312100E.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 String" style="height: 25px;">
+</a><a href="https://leetcode.com/problemset/all/?topicSlugs=array" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20Array-%230076C6.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Array" style="height: 25px;">
+</a><a href="https://leetcode.com/problemset/all/?difficulty=Easy" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%2050%20Beginner-%23D00000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Beginners DSA Sheet" style="height: 25px;">
+</a>
 </div>
 <hr/>
 <p>

@@ -104,7 +104,9 @@
 <br><br><br>
 
 <h1 align="center">Technical Stack</h1>
-
+<div align="center">
+    <p>(Click On the Bagdes Below ⬇️)<</p>
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
    <div align = "center">
@@ -265,8 +267,6 @@
 
 <hr/>
 <h1 align="center">Developer / Forums</h1>
-
-<p align="center">Profile[Click on the Badge Icon Below]</p>
 <div align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
@@ -367,6 +367,8 @@
   <hr />
 
 <br>
+<h1 align="center">Challanges</h1>
+<hr/>
 <p>
     <img src="new.png">
 </p>

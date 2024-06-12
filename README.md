@@ -388,7 +388,7 @@
 <h1 align="center">Machine Learning</h1>
 <hr/>
 <div align="center">
-<a href="https://github.com/yourusername/naive-bayes" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/Naive-Bayes" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Naive%20Bayes-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="Naive Bayes" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/logistic-regression" target="_blank" rel="noopener noreferrer nofollow">

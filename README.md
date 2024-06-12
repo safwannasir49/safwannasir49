@@ -430,7 +430,11 @@
     <img src="https://img.shields.io/badge/Top%2050%20Beginner-%23D00000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Beginners DSA Sheet" style="height: 25px;">
 </a>
 </div>
+    <div align="center">
+        <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat" style="height: 500px">
+    </div>
 <hr/>
+    
 <p>
     <img src="new.png">
 </p>

@@ -385,6 +385,34 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
 <hr/>
+<h1 align="center">Machine Learning</h1>
+<hr/>
+<div align="center">
+<a href="https://github.com/yourusername/naive-bayes" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Naive%20Bayes-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="Naive Bayes" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/logistic-regression" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Logistic%20Regression-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Logistic Regression" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/linear-regression" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Linear%20Regression-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Linear Regression" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/agnes" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/AGNES-%238E44AD.svg?style=for-the-badge&logo=python&logoColor=white" alt="AGNES" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/k-nearest-neighbour" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/K--Nearest%20Neighbour-%2300ADD8.svg?style=for-the-badge&logo=python&logoColor=white" alt="K-Nearest Neighbour" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/k-means" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/K--Means-%23FFA500.svg?style=for-the-badge&logo=python&logoColor=white" alt="K-Means" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/svm" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/SVM-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black" alt="SVM" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/diana" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Diana-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Diana" style="height: 25px;">
+</a>
+</div>
 <h1>Curated DSA List</h1>
 <hr/>
 <div align="center">

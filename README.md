@@ -362,7 +362,7 @@
     <img src="octocat-1718083013787.png" alt="Octocat" style="height: 500px">
 </div>
 <br>
-<h1 align="center">Challenges</h1>
+<h2 align="center">Challenges</h2>
 <hr/>
 <div align="center">
 <a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
@@ -385,7 +385,7 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
 <hr/>
-<h1 align="center">Machine Learning</h1>
+<h2 align="center">Machine Learning</h2>
 <hr/>
     <h3 align="center">Section - 1</h3>
 <div>
@@ -426,7 +426,7 @@
     </div>
 </div>
 
-<h1>Curated DSA List</h1>
+<h2>Curated DSA List</h2>
 <hr/>
 <div align="center">
 <a href="https://leetcode.com/problemset/all/?topicSlugs=tree" target="_blank" rel="noopener noreferrer nofollow">

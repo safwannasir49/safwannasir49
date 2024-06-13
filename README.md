@@ -389,28 +389,28 @@
 <hr/>
 <div align="center">
 <a href="https://github.com/safwannasir49/Naive-Bayes" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/naive-baye's-machine-learning.svg" alt="Naive Bayes" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-naive-baye's.svg" alt="Naive Bayes" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/logistic-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/logistic-regression-machine-learning.svg" alt="Logistic Regression" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-logistic-regression.svg" alt="Logistic Regression" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/linear-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/linear-regression-machine-learning.svg" alt="Linear Regression" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-linear-regression.svg" alt="Linear Regression" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/agnes" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/agnes-machine-learning.svg" alt="AGNES" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-agnes.svg" alt="AGNES" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/k-nearest-neighbour" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/k-nearest-neighbour-machine-learning.svg" alt="K-Nearest Neighbour" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-k--nearest-neighbour.svg" alt="K-Nearest Neighbour" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/k-means" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/k-means-machine-learning.svg" alt="K-Means" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-k--means%20(1).svg" alt="K-Means" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/svm" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/svm-machine-learning.svg" alt="SVM" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-svm.svg" alt="SVM" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/diana" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/diana-machine-learning.svg" alt="Diana" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-diana.svg" alt="Diana" style="height: 25px;">
 </a>
 </div>
 <h1>Curated DSA List</h1>

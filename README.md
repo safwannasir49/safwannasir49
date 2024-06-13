@@ -392,22 +392,22 @@
     <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/naive-baye's-machine-learning.svg" alt="Naive Bayes" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/logistic-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Logistic%20Regression-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Logistic Regression" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/logistic-regression-machine-learning.svg" alt="Logistic Regression" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/linear-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Linear%20Regression-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Linear Regression" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/linear-regression-machine-learning.svg" alt="Linear Regression" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/agnes" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/AGNES-%238E44AD.svg?style=for-the-badge&logo=python&logoColor=white" alt="AGNES" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/agnes-machine-learning.svg" alt="AGNES" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/k-nearest-neighbour" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/k-nearest-neighbour-machine-learning.svg" alt="K-Nearest Neighbour" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/k-means" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/K--Means-%23FFA500.svg?style=for-the-badge&logo=python&logoColor=white" alt="K-Means" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/k-means-machine-learning.svg" alt="K-Means" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/svm" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/SVM-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black" alt="SVM" style="height: 25px;">
+    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/svm-machine-learning.svg" alt="SVM" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/diana" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Badges/diana-machine-learning.svg" alt="Diana" style="height: 25px;">

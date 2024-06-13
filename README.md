@@ -419,14 +419,14 @@
 <div align="center">
     <div style="margin-bottom: 20px;">
         <a href="https://github.com/yourusername/data-preprocessing" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Data%20Preprocessing%20Techniques-%2300A859.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Preprocessing Techniques" style="height: 25px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Data%20Preprocessing%20in%20Python-%2300A859.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Preprocessing in Python" style="height: 25px; vertical-align: middle;">
         </a>
           <a href="https://github.com/yourusername/evaluation-classification-model-performance" target="_blank" rel="noopener noreferrer nofollow">
-            <img src="https://img.shields.io/badge/Evaluation%20of%20Classification%20Model%20Performance-%23E67E22.svg?style=for-the-badge&logo=python&logoColor=white" alt="Evaluation of Classification Model Performance" style="height: 25px; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Data%20Preprocessing%20in%20R%20Studio-%23E67E22.svg?style=for-the-badge&logo=r&logoColor=white" alt="Data Preprocessing in R Studio" style="height: 25px; vertical-align: middle;">
         </a>
     </div>
 </div>
-    <hr/>
+ <hr/>
 <br>
 <h2>Curated DSA List</h2>
 <hr/>

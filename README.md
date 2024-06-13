@@ -266,7 +266,7 @@
 </div>
 
 <hr/>
-<h1 align="center">Developer / Forums</h1>
+<h2 align="center">Developer / Forums</h2>
 <div align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
@@ -385,6 +385,7 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
 <hr/>
+    <br>
 <h2 align="center">Machine Learning</h2>
 <hr/>
     <h3 align="center">Section - 1</h3>
@@ -425,7 +426,8 @@
         </a>
     </div>
 </div>
-
+    <hr/>
+<br>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

@@ -412,6 +412,16 @@
 <a href="https://github.com/yourusername/diana" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-diana.svg" alt="Diana" style="height: 25px;">
 </a>
+    <h2>Data Preprocessing Badge</h2>
+<a href="https://github.com/yourusername/data-preprocessing" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Data%20Preprocessing-%2300A859.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Preprocessing" style="height: 25px;">
+</a>
+
+<h2>Evaluation of Classification Model Performance Badge</h2>
+<a href="https://github.com/yourusername/evaluation-classification-model-performance" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Evaluation%20of%20Classification%20Model%20Performance-%23E67E22.svg?style=for-the-badge&logo=python&logoColor=white" alt="Evaluation of Classification Model Performance" style="height: 25px;">
+</a>
+
 </div>
 <h1>Curated DSA List</h1>
 <hr/>

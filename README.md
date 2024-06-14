@@ -359,8 +359,8 @@
     <hr/>    
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
 <div align="center">
-    <img src="octocat-1718083013787.png" alt="Octocat" style="height: 500px">
-</div>
+        <img src="octocat-1718083013787.png" alt="Octocat" class="responsive-img">
+    </div>
 <br>
 <h2 align="center">Challenges</h2>
 <hr/>
@@ -447,7 +447,7 @@
 </div>
     <hr/>
     <div align="center">
-        <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat" style="height: 500px">
+        <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat"class="responsive-img"> 
     </div>
 <hr/>
     

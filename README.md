@@ -497,7 +497,7 @@
   </tbody>
 </table>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" style="width: 100%; height: auto;">
 </p>
 
 <div align="center">

@@ -447,7 +447,7 @@
 </div>
     <hr/>
     <div align="center">
-        <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat"class="responsive-img"> 
+        <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat"style="width: 100%; max-width: 800px; height: auto;"> 
     </div>
 <hr/>
     
@@ -500,14 +500,12 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
-<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/safwannasir49/safwannasir49/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
--->
 <hr/>
 <p>
     <img src="SAFWANNASIR.png">

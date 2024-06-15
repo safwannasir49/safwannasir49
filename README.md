@@ -499,13 +499,14 @@
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" style="width: 100%; height: auto;">
 </p>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/safwannasir49/safwannasir49/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
 <hr/>
 <p>
     <img src="SAFWANNASIR.png">

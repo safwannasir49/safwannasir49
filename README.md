@@ -506,7 +506,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/safwannasir49/safwannasir49/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
+-->
 <hr/>
 <p>
     <img src="SAFWANNASIR.png">

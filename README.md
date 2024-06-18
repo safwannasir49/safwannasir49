@@ -349,15 +349,19 @@
 </a><a href="https://docs.python-requests.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Requests-%2300CCFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Requests" style="height: 25px;">
 </a>
-
-
 </div>
     </div>
-    <hr/>    
+    <hr/> 
+    <br>
+
+<br>
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
 <div align="center">
-        <img src="octocat-1718083013787.png" alt="Octocat" style="width: 70%; max-width: 200px; height: auto;"">
+        <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MzQ1MjMsIm5iZiI6MTcxODczNDIyMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDE4MTAyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkMGRkMTI2NThlNGY3MmMxYjA3ZjcwNTIyM2VmOTg3ZDI5ZGQyYWIwZGJkMjBmYTg5MWZkMTgyOGNhMTY1ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._Qsv10pEcc6X49YSRBClTuADjQBimbTPtlh5JZHFZDA" alt="Octocat" style="width: 70%; max-width: 200px; height: auto;"">
     </div>
+    
+<br>
+<br>
 <br>
 <h2 align="center">Challenges</h2>
 <hr/>
@@ -443,10 +447,11 @@
 </a>
 </div>
     <hr/>
+    <br><br><br>
     <div align="center">
-    <img src="https://octodex.github.com/images/filmtocat.png" alt="Octocat" style="width: 70%; max-width: 200px; height: auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Octocat" style="width: 70%; max-width: 200px; height: auto;">
 </div>
-
+<br><br><br>
 <hr/>
     
 <p>

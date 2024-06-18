@@ -1,5 +1,5 @@
 <hr/>
-<h2 align="center"><img src="grow.png"></h2>
+<h2 align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg"></h2>
 <hr/>
 <br><br>
 <h1 align="center">
@@ -454,9 +454,9 @@
 <br><br><br>
 <hr/>
     
-<p>
-    <img src="new.png">
-</p>
+<div>
+    <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" style="width: 100%; max-width: 200px; height: auto;">
+</div>
 <br>
 <div>
 <h3 align="left">🏆 GitHub Trophies</h3>

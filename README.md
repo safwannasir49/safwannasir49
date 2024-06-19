@@ -357,7 +357,7 @@
 <br>
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
 <div align="center">
-        <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MzQ1MjMsIm5iZiI6MTcxODczNDIyMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDE4MTAyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkMGRkMTI2NThlNGY3MmMxYjA3ZjcwNTIyM2VmOTg3ZDI5ZGQyYWIwZGJkMjBmYTg5MWZkMTgyOGNhMTY1ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._Qsv10pEcc6X49YSRBClTuADjQBimbTPtlh5JZHFZDA" alt="Octocat" style="width: 70%; max-width: 200px; height: auto;"">
+        <img src="Images/mobile-2.gif" alt="Octocat" style="width: 80%; max-width: 200px; height: auto;"">
     </div>
     
 <br>
@@ -449,13 +449,13 @@
     <hr/>
     <br><br><br>
     <div align="center">
-    <img src="https://camo.githubusercontent.com/f2af616491a44305af1348b302052690e3a932f78b339c94eeb91a7206361b08/68747470733a2f2f7777772e686179732e636f6d2e61752f646f63756d656e74732f333137333630392f333731363939382f496d6167655f546563685f4a6f625f536f6674776172655f446576656c6f7065725f4c616e64696e67506167652e6a70672f34383266636430322d313863642d376164632d363965632d3238313037303931333961663f743d31363138393032383635323333" alt="Octocat" style="width: 100%; max-width: 200px; height: auto;">
+    <img src="Images/mobile.jfif" alt="Octocat" style="width: 100%; max-width: 200px; height: auto;">
 </div>
 <br><br><br>
 <hr/>
     
 <div>
-    <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" style="width: 100%; max-width: 200px; height: auto;">
+    <img src="Images/mobile-1.gif" style="width: 100%; max-width: 200px; height: auto;">
 </div>
 <br>
 <div>

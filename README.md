@@ -389,7 +389,7 @@
     <br>
 <h2 align="center">Machine Learning</h2>
 <hr/>
-    <h3 align="center">Section - 1</h3>
+    <h3 align="center">Data Pre-Processing (Section - 1)</h3>
 <div>
     <!--
 <a href="https://github.com/safwannasir49/Naive-Bayes" target="_blank" rel="noopener noreferrer nofollow">

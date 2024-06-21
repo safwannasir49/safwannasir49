@@ -392,33 +392,6 @@
 <hr/>
     <div align="center">
     <h3 align="center">Data Pre-Processing (Section - 1)</h3>
-        <br>
-    <!--
-<a href="https://github.com/safwannasir49/Naive-Bayes" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-naive-baye's.svg" alt="Naive Bayes" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/logistic-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-logistic-regression.svg" alt="Logistic Regression" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/linear-regression" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-linear-regression.svg" alt="Linear Regression" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/agnes" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-agnes.svg" alt="AGNES" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/k-nearest-neighbour" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-k--nearest-neighbour.svg" alt="K-Nearest Neighbour" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/k-means" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-k--means%20(1).svg" alt="K-Means" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/svm" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-svm.svg" alt="SVM" style="height: 25px;">
-</a>
-<a href="https://github.com/yourusername/diana" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-diana.svg" alt="Diana" style="height: 25px;">
-</a>
-    -->
 <div align="center">
     <div style="margin-bottom: 20px;">
         <a href="https://github.com/safwannasir49/Data-Preprocessing-in-Python" target="_blank" rel="noopener noreferrer nofollow">
@@ -429,7 +402,7 @@
         </a>
     </div>
 </div>
-<br>
+<br><br><br><br>
     <h3 align="center">Regression (Section - 2)</h3>
 <div align="center">
 
@@ -509,8 +482,166 @@
         <img src="https://img.shields.io/badge/SVR%20in%20R%20Studio-%2389D329.svg?style=for-the-badge&logo=r&logoColor=white" alt="SVR in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
+<br><br><br><br>
+<h3 align="center">Classification (Section - 3)</h3>
+<!-- Logistic Regression -->
+<div>
+    <h4>Logistic Regression</h4>
+    <a href="https://github.com/safwannasir49/Logistic-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20Python-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Logistic Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Logistic-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20R%20Studio-%23E91E63.svg?style=for-the-badge&logo=r&logoColor=white" alt="Logistic Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+<!-- Decision Tree Classification -->
+<div>
+    <h4>Decision Tree Classification</h4>
+    <a href="https://github.com/safwannasir49/Decision-Tree-Classification-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Decision%20Tree%20Classification%20in%20Python-%23008000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Decision Tree Classification in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Decision-Tree-Classification-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Decision%20Tree%20Classification%20in%20R%20Studio-%23FF4500.svg?style=for-the-badge&logo=r&logoColor=white" alt="Decision Tree Classification in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Random Forest Classification -->
+<div>
+    <h4>Random Forest Classification</h4>
+    <a href="https://github.com/safwannasir49/Random-Forest-Classification-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Random%20Forest%20Classification%20in%20Python-%234B0082.svg?style=for-the-badge&logo=python&logoColor=white" alt="Random Forest Classification in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Random-Forest-Classification-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Random%20Forest%20Classification%20in%20R%20Studio-%23DC143C.svg?style=for-the-badge&logo=r&logoColor=white" alt="Random Forest Classification in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+<!-- Kernel SVM -->
+<div>
+    <h4>Kernel SVM</h4>
+    <a href="https://github.com/safwannasir49/Kernel-SVM-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Kernel%20SVM%20in%20Python-%23008080.svg?style=for-the-badge&logo=python&logoColor=white" alt="Kernel SVM in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Kernel-SVM-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Kernel%20SVM%20in%20R%20Studio-%232E8B57.svg?style=for-the-badge&logo=r&logoColor=white" alt="Kernel SVM in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Naive Bayes -->
+<div>
+    <h4>Naive Bayes</h4>
+    <a href="https://github.com/safwannasir49/Naive-Bayes-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Naive%20Bayes%20in%20Python-%23DA70D6.svg?style=for-the-badge&logo=python&logoColor=white" alt="Naive Bayes in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Naive-Bayes-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Naive%20Bayes%20in%20R%20Studio-%238B008B.svg?style=for-the-badge&logo=r&logoColor=white" alt="Naive Bayes in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- K-Nearest Neighbors (KNN) -->
+<div>
+    <h4>K-Nearest Neighbors (KNN)</h4>
+    <a href="https://github.com/safwannasir49/KNN-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/KNN%20in%20Python-%237B68EE.svg?style=for-the-badge&logo=python&logoColor=white" alt="KNN in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/KNN-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/KNN%20in%20R%20Studio-%233C69E7.svg?style=for-the-badge&logo=r&logoColor=white" alt="KNN in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Support Vector Machine (SVM) -->
+<div>
+    <h4>Support Vector Machine (SVM)</h4>
+    <a href="https://github.com/safwannasir49/SVM-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/SVM%20in%20Python-%23FF6347.svg?style=for-the-badge&logo=python&logoColor=white" alt="SVM in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/SVM-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/SVM%20in%20R%20Studio-%238A2BE2.svg?style=for-the-badge&logo=r&logoColor=white" alt="SVM in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+<br><br><br><br>
+<h3 align="center">Clustering (Section - 4)</h3>
+<div align="center">
+
+<!-- K-Means Clustering -->
+<div>
+    <h4>K-Means Clustering</h4>
+    <a href="https://github.com/safwannasir49/K-Means-Clustering-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/K%20Means%20Clustering%20in%20Python-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=white" alt="K Means Clustering in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/K-Means-Clustering-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/K%20Means%20Clustering%20in%20R%20Studio-%23FF4500.svg?style=for-the-badge&logo=r&logoColor=white" alt="K Means Clustering in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Hierarchical Clustering -->
+<div>
+    <h4>Hierarchical Clustering</h4>
+    <a href="https://github.com/safwannasir49/Hierarchical-Clustering-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Hierarchical%20Clustering%20in%20Python-%234B0082.svg?style=for-the-badge&logo=python&logoColor=white" alt="Hierarchical Clustering in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Hierarchical-Clustering-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Hierarchical%20Clustering%20in%20R%20Studio-%23DC143C.svg?style=for-the-badge&logo=r&logoColor=white" alt="Hierarchical Clustering in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
 
 </div>
+<br><br><br><br>
+<h3 align="center">Association Rule Learning (Section - 5)</h3>
+<div align="center">
+
+<!-- Apriori -->
+<div>
+    <h4>Apriori</h4>
+    <a href="https://github.com/safwannasir49/Apriori-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Apriori%20in%20Python-%23008000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Apriori in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Apriori-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Apriori%20in%20R%20Studio-%23006400.svg?style=for-the-badge&logo=r&logoColor=white" alt="Apriori in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Eclat -->
+<div>
+    <h4>Eclat</h4>
+    <a href="https://github.com/safwannasir49/Eclat-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Eclat%20in%20Python-%23B22222.svg?style=for-the-badge&logo=python&logoColor=white" alt="Eclat in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Eclat-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Eclat%20in%20R%20Studio-%23A52A2A.svg?style=for-the-badge&logo=r&logoColor=white" alt="Eclat in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+</div>
+<br><br><br><br>
+<h3 align="center">Reinforcement Learning (Section - 6)</h3>
+<div align="center">
+
+<!-- Upper Confidence Bound (UCB) -->
+<div>
+    <h4>Upper Confidence Bound (UCB)</h4>
+    <a href="https://github.com/safwannasir49/UCB-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/UCB%20in%20Python-%23DAA520.svg?style=for-the-badge&logo=python&logoColor=white" alt="UCB in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/UCB-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/UCB%20in%20R%20Studio-%238B4513.svg?style=for-the-badge&logo=r&logoColor=white" alt="UCB in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Thompson Sampling -->
+<div>
+    <h4>Thompson Sampling</h4>
+    <a href="https://github.com/safwannasir49/Thompson-Sampling-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Thompson%20Sampling%20in%20Python-%23CD5C5C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Thompson Sampling in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Thompson-Sampling-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Thompson%20Sampling%20in%20R%20Studio-%23D2691E.svg?style=for-the-badge&logo=r&logoColor=white" alt="Thompson Sampling in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+</div>
+<br><br>
+</div>
+<hr/>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

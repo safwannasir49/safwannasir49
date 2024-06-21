@@ -387,10 +387,12 @@
 </a>
 <hr/>
     <br>
+    <div>
 <h2 align="center">Machine Learning</h2>
 <hr/>
+    <div align="center">
     <h3 align="center">Data Pre-Processing (Section - 1)</h3>
-<div>
+        <br>
     <!--
 <a href="https://github.com/safwannasir49/Naive-Bayes" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://github.com/safwannasir49/safwannasir49/blob/main/Machine%20Learning/machine-learning-naive-baye's.svg" alt="Naive Bayes" style="height: 25px;">
@@ -419,16 +421,96 @@
     -->
 <div align="center">
     <div style="margin-bottom: 20px;">
-        <a href="https://github.com/yourusername/data-preprocessing" target="_blank" rel="noopener noreferrer nofollow">
+        <a href="https://github.com/safwannasir49/Data-Preprocessing-in-Python" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Data%20Preprocessing%20in%20Python-%2300A859.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Preprocessing in Python" style="height: 25px; vertical-align: middle;">
         </a>
-          <a href="https://github.com/yourusername/evaluation-classification-model-performance" target="_blank" rel="noopener noreferrer nofollow">
+          <a href="https://github.com/safwannasir49/Data-Preprocessing-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://img.shields.io/badge/Data%20Preprocessing%20in%20R%20Studio-%23E67E22.svg?style=for-the-badge&logo=r&logoColor=white" alt="Data Preprocessing in R Studio" style="height: 25px; vertical-align: middle;">
         </a>
     </div>
 </div>
- <hr/>
 <br>
+    <h3 align="center">Regression (Section - 2)</h3>
+<div align="center">
+
+<!-- Simple Linear Regression -->
+<div>
+    <h4>Simple Linear Regression</h4>
+    <a href="https://github.com/safwannasir49/Simple-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Simple%20Regression%20in%20Python-%23997DFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Simple Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Simple-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Simple%20Regression%20in%20R%20Studio-%23FF7E79.svg?style=for-the-badge&logo=r&logoColor=white" alt="Simple Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Multiple Linear Regression -->
+<div>
+    <h4>Multiple Linear Regression</h4>
+    <a href="https://github.com/safwannasir49/Multiple-Linear-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Multiple%20Linear%20Regression%20in%20Python-%2300A859.svg?style=for-the-badge&logo=python&logoColor=white" alt="Multiple Linear Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Multiple-Linear-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Multiple%20Linear%20Regression%20in%20R%20Studio-%23E67E22.svg?style=for-the-badge&logo=r&logoColor=white" alt="Multiple Linear Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Polynomial Regression -->
+<div>
+    <h4>Polynomial Regression</h4>
+    <a href="https://github.com/safwannasir49/Polynomial-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Polynomial%20Regression%20in%20Python-%2300BF6F.svg?style=for-the-badge&logo=python&logoColor=white" alt="Polynomial Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Polynomial-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Polynomial%20Regression%20in%20R%20Studio-%23FF6D3A.svg?style=for-the-badge&logo=r&logoColor=white" alt="Polynomial Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Decision Tree Regression -->
+<div>
+    <h4>Decision Tree Regression</h4>
+    <a href="https://github.com/safwannasir49/Decision-Tree-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Decision%20Tree%20Regression%20in%20Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Decision Tree Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Decision-Tree-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Decision%20Tree%20Regression%20in%20R%20Studio-%234F5D75.svg?style=for-the-badge&logo=r&logoColor=white" alt="Decision Tree Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Random Forest Regression -->
+<div>
+    <h4>Random Forest Regression</h4>
+    <a href="https://github.com/safwannasir49/Random-Forest-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Random%20Forest%20Regression%20in%20Python-%23FF3C38.svg?style=for-the-badge&logo=python&logoColor=white" alt="Random Forest Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Random-Forest-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Random%20Forest%20Regression%20in%20R%20Studio-%23A155B9.svg?style=for-the-badge&logo=r&logoColor=white" alt="Random Forest Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Regression Model Selection -->
+<div>
+    <h4>Regression Model Selection</h4>
+    <a href="https://github.com/safwannasir49/Regression-Model-Selection-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Regression%20Model%20Selection%20in%20Python-%2332C1CD.svg?style=for-the-badge&logo=python&logoColor=white" alt="Regression Model Selection in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Regression-Model-Selection-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Regression%20Model%20Selection%20in%20R%20Studio-%23EE8434.svg?style=for-the-badge&logo=r&logoColor=white" alt="Regression Model Selection in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+</div><!-- Support Vector Regression (SVR) -->
+<div>
+    <h4>Support Vector Regression (SVR)</h4>
+    <a href="https://github.com/safwannasir49/SVR-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/SVR%20in%20Python-%23F4A259.svg?style=for-the-badge&logo=python&logoColor=white" alt="SVR in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/SVR-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/SVR%20in%20R%20Studio-%2389D329.svg?style=for-the-badge&logo=r&logoColor=white" alt="SVR in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+</div>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

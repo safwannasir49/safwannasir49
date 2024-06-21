@@ -402,7 +402,7 @@
         </a>
     </div>
 </div>
-<br><br><br><br>
+<br><br><br>
     <h3 align="center">Regression (Section - 2)</h3>
 <div align="center">
 
@@ -642,6 +642,9 @@
 <br><br>
 </div>
 <hr/>
+<div>
+    <img src="Images/saf.jpg">
+</div>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

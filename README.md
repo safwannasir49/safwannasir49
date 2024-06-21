@@ -388,10 +388,16 @@
 <hr/>
     <br>
     <div>
-<h2 align="center">Machine Learning</h2>
+        <br><br>
+        <div>
+            <img src="Images/tech.jpg">
+        </div>
+        <br><br>
+<h1 align="center">Machine Learning</h1>
 <hr/>
+        <br>
     <div align="center">
-    <h3 align="center">Data Pre-Processing (Section - 1)</h3>
+    <h2 align="center">Data Pre-Processing (Section - 1)</h2>
 <div align="center">
     <div style="margin-bottom: 20px;">
         <a href="https://github.com/safwannasir49/Data-Preprocessing-in-Python" target="_blank" rel="noopener noreferrer nofollow">
@@ -403,7 +409,7 @@
     </div>
 </div>
 <br><br><br>
-    <h3 align="center">Regression (Section - 2)</h3>
+    <h2 align="center">Regression (Section - 2)</h2>
 <div align="center">
 
 <!-- Simple Linear Regression -->
@@ -483,7 +489,7 @@
     </a>
 </div>
 <br><br><br><br>
-<h3 align="center">Classification (Section - 3)</h3>
+<h2 align="center">Classification (Section - 3)</h2>
 <!-- Logistic Regression -->
 <div>
     <h4>Logistic Regression</h4>
@@ -559,7 +565,7 @@
     </a>
 </div>
 <br><br><br><br>
-<h3 align="center">Clustering (Section - 4)</h3>
+<h2 align="center">Clustering (Section - 4)</h2>
 <div align="center">
 
 <!-- K-Means Clustering -->
@@ -586,7 +592,7 @@
 
 </div>
 <br><br><br><br>
-<h3 align="center">Association Rule Learning (Section - 5)</h3>
+<h2 align="center">Association Rule Learning (Section - 5)</h2>
 <div align="center">
 
 <!-- Apriori -->
@@ -613,7 +619,7 @@
 
 </div>
 <br><br><br><br>
-<h3 align="center">Reinforcement Learning (Section - 6)</h3>
+<h2 align="center">Reinforcement Learning (Section - 6)</h2>
 <div align="center">
 
 <!-- Upper Confidence Bound (UCB) -->
@@ -642,9 +648,11 @@
 <br><br>
 </div>
 <hr/>
+ <br><br>
 <div>
     <img src="Images/saf.jpg">
 </div>
+ <br><br>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

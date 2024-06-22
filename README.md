@@ -754,10 +754,11 @@
         <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-<div>
-    <img src="Images/get.gif" tyle="width: 20%; max-width: 200px; height: auto;>
+<br><br><br>
+<div align="center">
+    <img src="Images/get.gif" style="width: 80%; max-width: 200px; height: auto;">
 </div>
- <br><br>
+ <br><br><br>
 <div align="center" >
     <img src="Images/saf.jpg">
 </div>

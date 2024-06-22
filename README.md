@@ -801,6 +801,9 @@
 </div>
          <br><br><br>
 </div>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Analytics!+%F0%9F%98%84"/>
+</h3>
      <hr/>
      <br><br><br>
 <div align="center">

@@ -356,7 +356,7 @@
 <br>
 <table border="0" style="margin-top:30px; border:0px; width: 100%;" class="mt-4">
 <div align="center">
-        <img src="Images/mobile-2.gif" alt="Octocat" style="width: 80%; max-width: 200px; height: auto;"">
+        <img src="Images/mobile-2.gif" alt="Octocat" style="width: 80%; max-width: 200px; height: auto;">
     </div>
     
 <br>
@@ -755,10 +755,10 @@
     </a>
 </div>
 <div>
-    <img scr="Images/get.gif">
+    <img src="Images/get.gif" tyle="width: 20%; max-width: 200px; height: auto;>
 </div>
  <br><br>
-<div>
+<div align="center" >
     <img src="Images/saf.jpg">
 </div>
  <br><br>

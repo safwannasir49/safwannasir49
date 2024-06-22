@@ -666,10 +666,101 @@
 </div>
 <hr/>
  <br><br>
+ <div>
+     <img src="Images/got.jpg">
+ </div>
+ <br><br>
+ <hr/>
+ <h1 align="center">Data Science</h1>
+ <hr/>
+ <br>
+ <div>
+<!-- Section - 1 Feilf Of data Science -->
+<div align = "center">
+    <h3 align="center">Feild of Data Science (Section - 1)</h3>
+    <br>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/various%20data%20science%20discipline-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Field of Data Science" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Connecting%20Data%20Science%20Disciplines-%23FFC107.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connecting Data Science Disciplines" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Benefits%20of%20Each%20Discipline-%23FF5722.svg?style=for-the-badge&logo=github&logoColor=white" alt="Benefits of Each Discipline" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Techniques-%239C27B0.svg?style=for-the-badge&logo=github&logoColor=white" alt="Popular Data Science Techniques" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Tools-%23007BFF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Popular Data Science Tools" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Debunking%20Common%20Misconceptions-%23E91E63.svg?style=for-the-badge&logo=github&logoColor=white" alt="Debunking Common Misconceptions" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+<br><br><br>
+<!-- Section - 2 Probability -->
+<h3 align="center">Probability (Section - 2)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Probability" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Probability%20In%20Data%20Science-%2300A859.svg?style=for-the-badge&logo=github&logoColor=white" alt="Probability" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+<br><br>
+<!-- Section - 3 Statistics -->
+<h3 align="center">Statistics (Section - 3)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Statistics" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Statistics-%23FF6347.svg?style=for-the-badge&logo=github&logoColor=white" alt="Statistics" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Section - 4 Python -->
+<h3 align="center">Python (Section - 4)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Python-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Section - 5 Advanced Statistical Methods -->
+<h3 align="center">Advanced Statistical Methods (Section - 5)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Advanced-Statistical-Methods" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Advanced%20Statistical%20Methods-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Statistical Methods" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Section - 6 Mathematics -->
+<h3 align="center">Mathematics (Section - 6)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Mathematics" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Mathematics-%237B68EE.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mathematics" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Section - 7 Deep Learning -->
+<h3 align="center">Deep Learning (Section - 7)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Deep-Learning" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Deep%20Learning-%23FF7E79.svg?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<!-- Section - 8 Software Integration -->
+<h3 align="center">Software Integration (Section - 8)</h3>
+<div align="center">
+    <a href="https://github.com/safwannasir49/Software-Integration" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+ <br><br>
 <div>
     <img src="Images/saf.jpg">
 </div>
  <br><br>
+ </div>
 <h2>Curated DSA List</h2>
 <hr/>
 <div align="center">

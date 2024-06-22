@@ -402,7 +402,10 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
 </div>
-<br> 
+<br><br><br>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Challanges!+%F0%9F%98%84"/>
+</h3>
 <hr/>
     <br>
     <div>
@@ -667,10 +670,13 @@
         <img src="https://img.shields.io/badge/Thompson%20Sampling%20in%20R%20Studio-%23D2691E.svg?style=for-the-badge&logo=r&logoColor=white" alt="Thompson Sampling in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-
+<br>
 </div>
 <br><br>
 </div>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Machine+Learning!+%F0%9F%98%84"/>
+</h3>
 <hr/>
  <br><br>
  <div>
@@ -765,6 +771,9 @@
         <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Science!+%F0%9F%98%84"/>
+</h3>
 <hr/>
 <br><br><br>
  <div align="center">

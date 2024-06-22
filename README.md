@@ -363,6 +363,9 @@
 <br>
 <br>
 <h2 align="center">Challenges</h2>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Click+On+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h1>
 <hr/>
  <div align="center">
         <h3>Languages</h3>
@@ -408,8 +411,13 @@
             <img src="Images/tech.jpg">
         </div>
         <br><br>
+<div align="center">
 <h1 align="center">Machine Learning</h1>
 <hr/>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Click+On+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h1>
+    </div>
         <br>
     <div align="center">
     <h2 align="center">Data Pre-Processing (Section - 1)</h2>
@@ -672,6 +680,9 @@
  <hr/>
  <br><br><br>
  <h1 align="center">Data Science</h1>
+ <h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Click+On+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h1>
  <hr/>
  <br>
  <div>
@@ -758,6 +769,9 @@
 <br><br><br>
  <div align="center">
  <h2>Data Analytics</h2>
+     <h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Click+On+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h1>
  <hr/>
      <br>
      <h3>Data Frames & Datasets, Series and Columns, Index & Sorting, Filetring Data Frames (Section-1)</h3>

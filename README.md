@@ -756,6 +756,30 @@
 </div>
 <hr/>
 <br><br><br>
+ <div align="center">
+ <h2>Data Analytics</h2>
+ <hr/>
+     <br>
+     <h3>Data Frames & Datasets, Series and Columns, Index & Sorting, Filetring Data Frames (Section-1)</h3>
+     <br>
+     <div style="text-align: center;">
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/DataFrames%20%26%20Datasets-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="DataFrames & Datasets" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Series%20and%20Columns-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Series and Columns" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Index%20%26%20Sorting-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Index & Sorting" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Filtering%20Data%20Frames-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Filtering Data Frames" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+         <br><br><br>
+</div>
+     <hr/>
+     <br><br><br>
 <div align="center">
     <img src="Images/get.gif" style="width: 80%; max-width: 200px; height: auto;">
 </div>

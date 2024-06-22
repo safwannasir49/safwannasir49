@@ -102,7 +102,6 @@
 
 <h1 align="center">Technical Stack</h1>
 <div align="center">
-    <p>(Click On the below Bagde icons ⬇️)</p>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
@@ -671,7 +670,7 @@
  </div>
  <br><br>
  <hr/>
- <br><br>
+ <br><br><br>
  <h1 align="center">Data Science</h1>
  <hr/>
  <br>
@@ -755,7 +754,9 @@
         <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-
+<div>
+    <img scr="Images/get.gif">
+</div>
  <br><br>
 <div>
     <img src="Images/saf.jpg">

@@ -736,7 +736,7 @@
 
 <br><br>
 <!-- Section - 3 Statistics -->
-<h3 align="center">Part 3: Statistics</h3>
+<h3 align="center">Statistics (Section - 3)</h3>
 
 <div align="center">
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
@@ -751,10 +751,6 @@
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Confidence%20Intervals-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Confidence Intervals" style="height: 25px; vertical-align: middle;">
     </a>
-     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%23FF9800.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Hypothesis Testing" style="height: 25px; vertical-align: middle;">
-    </a>
-</div>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%23007BFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Inferential Statistics" style="height: 25px; vertical-align: middle;">
     </a>

@@ -717,21 +717,56 @@
 </div>
 <br><br><br>
 <!-- Section - 2 Probability -->
-<h3 align="center">Probability (Section - 2)</h3>
-<div align="center">
-    <a href="https://github.com/safwannasir49/Probability" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Probability%20In%20Data%20Science-%2300A859.svg?style=for-the-badge&logo=github&logoColor=white" alt="Probability" style="height: 25px; vertical-align: middle;">
+<h3 align = "center">Probability (Section-2)</h3>
+
+<div align = "center">
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Introduction-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Introduction" style="height: 25px; vertical-align: middle;">
     </a>
-</div>
-<br><br>
-<!-- Section - 3 Statistics -->
-<h3 align="center">Statistics (Section - 3)</h3>
-<div align="center">
-    <a href="https://github.com/safwannasir49/Statistics" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Statistics-%23FF6347.svg?style=for-the-badge&logo=github&logoColor=white" alt="Statistics" style="height: 25px; vertical-align: middle;">
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Combinatorics-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Combinatorics" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Bayesian%20Inference-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Bayesian Inference" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Probability%20in%20Other%20Fields-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Probability in Other Fields" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
 
+<br><br>
+<!-- Section - 3 Statistics -->
+<h3 align="center">Part 3: Statistics</h3>
+
+<div align="center">
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Descriptive%20Statistics-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Descriptive Statistics" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Descriptive%20Statistics-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Descriptive Statistics" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Inferential%20Statistics%20Fundamentals-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Inferential Statistics Fundamentals" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Confidence%20Intervals-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Confidence Intervals" style="height: 25px; vertical-align: middle;">
+    </a>
+     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%23FF9800.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Hypothesis Testing" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%23007BFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Inferential Statistics" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Hypothesis%20Testing-%23E91E63.svg?style=for-the-badge&logo=python&logoColor=white" alt="Hypothesis Testing" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Hypothesis%20Testing-%23FF9800.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Hypothesis Testing" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
+<br><br>
 <!-- Section - 4 Python -->
 <h3 align="center">Python (Section - 4)</h3>
 <div align="center">

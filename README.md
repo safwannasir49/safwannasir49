@@ -406,7 +406,6 @@
 <hr/>
     <br>
     <div>
-        <br><br>
         <div>
             <img src="Images/tech.jpg">
         </div>

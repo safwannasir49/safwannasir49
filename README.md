@@ -410,7 +410,8 @@
         <div>
             <img src="Images/tech.jpg">
         </div>
-        <br><br>
+    <hr/>
+        <br><br><br><br><br><br>
 <div align="center">
 <h1 align="center">Machine Learning</h1>
 <hr/>
@@ -681,7 +682,7 @@
  </div>
  <br><br>
  <hr/>
- <br><br><br>
+ <br><br><br><br><br><br>
  <h1 align="center">Data Science</h1>
  <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
@@ -803,7 +804,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=E9F3F7&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Science!+%F0%9F%98%84"/>
 </h3>
 <hr/>
-<br><br><br>
+<br><br><br><br><br><br>
  <div align="center">
  <h2>Data Analytics</h2>
      <h1 align="center">

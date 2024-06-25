@@ -864,12 +864,12 @@
 </a>
 </div>
     <hr/>
-    <br><br><br>
+    <br><br><br><br><br>
     <div align="center">
     <img src="Images/mobile.jfif" alt="Octocat" style="width: 100%; max-width: 200px; height: auto;">
 </div>
 <br><br><br>
-<br><br><br><br><br><br>
+<br><br><br>
 <div align="center">
   <h1>Records</h1>
   <h1 align="center">
@@ -877,7 +877,24 @@
 </h1>
 <hr/>
 <h2>Advanced Calculus - 1</h2>
-    
+<div style="text-align: center;">
+    <a href="https://github.com/safwannasir49/Differential-Calculus-1" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Differential%20Calculus-I-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Differential Calculus" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Integral-Calculus-1" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Integral%20Calculus-I-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Integral Calculus I" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Vector-Diffrentiation" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Vector%20Differentiation-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Vector Differentiation" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Integral-Calculus-II" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Integral%20Calculus-II-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Integral Calculus II" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Vector-integration" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Vector%20Integration-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Vector Integration" style="height: 25px; vertical-align: middle;">
+    </a>
+</div>
+
  <br><br>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Records!+%F0%9F%98%84"/>

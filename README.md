@@ -870,7 +870,22 @@
 </div>
 <br><br><br>
 <hr/>
+<br><br><br><br><br><br>
+<div align="center">
+  <h1>Records</h1>
+  <h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h1>
+<hr/>
+<h2>Advanced Calculus - 1</h2>
     
+ <br><br>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Records!+%F0%9F%98%84"/>
+</h3>
+<hr/>
+</div>
+<br><br><br><br><br><br>
 <div>
     <img src="Images/mobile-1.gif" style="width: 100%; max-width: 200px; height: auto;">
 </div>

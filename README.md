@@ -869,7 +869,6 @@
     <img src="Images/mobile.jfif" alt="Octocat" style="width: 100%; max-width: 200px; height: auto;">
 </div>
 <br><br><br>
-<hr/>
 <br><br><br><br><br><br>
 <div align="center">
   <h1>Records</h1>

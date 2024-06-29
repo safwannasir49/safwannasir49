@@ -908,7 +908,8 @@
 </div>
 <br>
 <div>
-<h3 align="left">🏆 GitHub Trophies 🏆</h3>
+    <br><br>
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
    <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
     <hr/>
 <div align="center">

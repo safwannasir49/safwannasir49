@@ -16,17 +16,35 @@
 
 
 <!--<p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>-->
-
+<br><br>
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="70" height="70" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="70" height="70" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
 </div>
+<br><br>
+
 <hr/>
 
 
@@ -91,7 +109,7 @@
 -->
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80%">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </p>
 
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -872,7 +890,7 @@
 <br><br><br>
 <br><br><br>
 <div align="center">
-  <h1>Records</h1>
+  <h1>Mathematics</h1>
   <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>

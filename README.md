@@ -10,12 +10,13 @@
 
 <img src="logo.png" alt="logo">
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jost&pause=1000&center=true&random=false&width=435&lines=I'm+a+Fervent+AI+Developer!"/>
-</h1>
+</h3>
 
 
 <!--<p align="left"> <a href="https://x.com/SafwanNasir49" target="blank"><img src="https://img.shields.io/twitter/follow/Safwan Nasir?logo=twitter&style=for-the-badge" alt="SafwanNasir"  </p>-->
+<hr/>
 <br><br>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" />
@@ -780,16 +781,9 @@
 </div>
 
 <br><br>
-<!-- Section - 4 Python -->
-<h3 align="center">Python (Section - 4)</h3>
-<div align="center">
-    <a href="https://github.com/safwannasir49/Python" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Python-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px; vertical-align: middle;">
-    </a>
-</div>
 
 <!-- Section - 5 Advanced Statistical Methods -->
-<h3 align="center">Advanced Statistical Methods (Section - 5)</h3>
+<h3 align="center">Advanced Statistical Methods (Section - 4)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Advanced-Statistical-Methods" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Advanced%20Statistical%20Methods-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Statistical Methods" style="height: 25px; vertical-align: middle;">
@@ -797,7 +791,7 @@
 </div>
 
 <!-- Section - 6 Mathematics -->
-<h3 align="center">Mathematics (Section - 6)</h3>
+<h3 align="center">Mathematics (Section - 5)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Mathematics" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Mathematics-%237B68EE.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mathematics" style="height: 25px; vertical-align: middle;">
@@ -805,7 +799,7 @@
 </div>
 
 <!-- Section - 7 Deep Learning -->
-<h3 align="center">Deep Learning (Section - 7)</h3>
+<h3 align="center">Deep Learning (Section - 6)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Deep-Learning" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Deep%20Learning-%23FF7E79.svg?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning" style="height: 25px; vertical-align: middle;">
@@ -813,7 +807,7 @@
 </div>
 
 <!-- Section - 8 Software Integration -->
-<h3 align="center">Software Integration (Section - 8)</h3>
+<h3 align="center">Software Integration (Section - 7)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Software-Integration" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">

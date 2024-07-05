@@ -1015,81 +1015,54 @@
 <hr/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, feel free to reach out!</b> :)</em>
 <br>
+<br>
+<br><br>
+<hr/>
+<br><br>
+<!-- Contact Section --> 
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center" style="margin-bottom: 30px;">
+  <a href="mailto:kirannaragund197@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" />
+  </a>
 
+  <a href="https://x.com/kiran__a__n" target="_blank" style="margin: 0 15px;">
+    <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" />
+  </a>
 
+  <a href="https://www.instagram.com/kiran_a_n" target="_blank" style="margin: 0 15px;">
+    <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" />
+  </a>
 
+  <a href="https://www.github.com/Kiran1689" target="_blank" style="margin: 0 15px;">
+    <img src="./github.png" width=50 height=50 alt="Kiran1689" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank" style="margin: 0 15px;">
+    <img src="./linkedin.png" width=50 height=50 alt="linkedin" />
+  </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20spend%20too%20much%20time%20thinking%20about%20a%20thing%2C%20you'll%20never%20get%20it%20done.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://dev.to/dev_kiran" target="_blank" style="margin: 0 15px;">
+    <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" />
+  </a>
 </div>
-<br/>
 
+<br/><br/>
 
+<!-- Buy Me a Coffee -->
+
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://www.buymeacoffee.com/Kiran1689" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 200px !important;" />
+  </a>
+</div>
+
+<br/><br/>
+
+<!-- Footer --> 
+
+<p align="center" style="margin: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 

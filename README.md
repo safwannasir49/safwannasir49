@@ -426,6 +426,37 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Challanges!+%F0%9F%98%84"/>
 </h3>
+
+<hr/>
+<br><br>
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil">21 VS Code Extensions To Boost Your Productivity</a></li>
+  <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
+  <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your coding Agent🤖</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+<hr/>
+<!--
 <hr/>
     <br>
     <div>
@@ -433,6 +464,7 @@
             <img src="Images/tech.jpg">
         </div>
     <hr/>
+-->
         <br><br><br><br><br><br>
 <div align="center">
 <h1 align="center">Machine Learning</h1>
@@ -983,5 +1015,81 @@
 <hr/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, feel free to reach out!</b> :)</em>
 <br>
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=If%20you%20spend%20too%20much%20time%20thinking%20about%20a%20thing%2C%20you'll%20never%20get%20it%20done.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/kiran__a__n" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Kiran1689" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
 
 

@@ -730,22 +730,16 @@
 </h3>
 <hr/>
  <br><br>
- <div>
-     <img src="Images/got.jpg">
- </div>
- <br><br>
- <hr/>
- <br><br><br><br><br><br>
- <h1 align="center">Data Science</h1>
+<img src="Images/datascience.png">
+<hr/>
  <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>
  <hr/>
  <br>
- <div>
-<!-- Section - 1 Feilf Of data Science -->
-<div align = "center">
-    <h3 align="center">Feild of Data Science (Section - 1)</h3>
+ <!-- Section - 1 Field Of Data Science -->
+<div align="center">
+    <h3 align="center">Field of Data Science (Section - 1)</h3>
     <br>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/various%20data%20science%20discipline-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Field of Data Science" style="height: 25px; vertical-align: middle;">
@@ -768,9 +762,9 @@
 </div>
 <br><br><br>
 <!-- Section - 2 Probability -->
-<h3 align = "center">Probability (Section-2)</h3>
+<h3 align="center">Probability (Section-2)</h3>
 
-<div align = "center">
+<div align="center">
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Introduction-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Introduction" style="height: 25px; vertical-align: middle;">
     </a>
@@ -815,7 +809,7 @@
 
 <br><br>
 
-<!-- Section - 5 Advanced Statistical Methods -->
+<!-- Section - 4 Advanced Statistical Methods -->
 <h3 align="center">Advanced Statistical Methods (Section - 4)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Advanced-Statistical-Methods" target="_blank" rel="noopener noreferrer nofollow">
@@ -823,7 +817,7 @@
     </a>
 </div>
 
-<!-- Section - 6 Mathematics -->
+<!-- Section - 5 Mathematics -->
 <h3 align="center">Mathematics (Section - 5)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Mathematics" target="_blank" rel="noopener noreferrer nofollow">
@@ -831,7 +825,7 @@
     </a>
 </div>
 
-<!-- Section - 7 Deep Learning -->
+<!-- Section - 6 Deep Learning -->
 <h3 align="center">Deep Learning (Section - 6)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Deep-Learning" target="_blank" rel="noopener noreferrer nofollow">
@@ -839,20 +833,21 @@
     </a>
 </div>
 
-<!-- Section - 8 Software Integration -->
+<!-- Section - 7 Software Integration -->
 <h3 align="center">Software Integration (Section - 7)</h3>
 <div align="center">
     <a href="https://github.com/safwannasir49/Software-Integration" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
+<br><br><br>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Science!+%F0%9F%98%84"/>
 </h3>
 <hr/>
-<br><br><br><br><br><br>
- <div align="center">
- <h2>Data Analytics</h2>
+<div align="center">
+<img src = "Images/dataanalytics.png">
+<hr/>
      <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>
@@ -879,6 +874,7 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Analytics!+%F0%9F%98%84"/>
 </h3>
+    </div>
      <hr/>
      <br><br><br>
 <div align="center">
@@ -892,8 +888,12 @@
  <br><br>
  </div>
  -->
+ <div align="center">
 <h2>Curated DSA List</h2>
 <hr/>
+      <h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
+</h3>
 <div align="center">
 <a href="https://leetcode.com/problemset/all/?topicSlugs=tree" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Top%2050%20Tree-%233776AB.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 50 Tree" style="height: 25px;">
@@ -909,18 +909,18 @@
     <img src="https://img.shields.io/badge/Top%2050%20Beginner-%23D00000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Beginners DSA Sheet" style="height: 25px;">
 </a>
 </div>
+<br><br><br>
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Curated+DSA+List!+%F0%9F%98%84"/>
+</h3>
     <hr/>
-    <br><br><br><br><br>
+     </div>
+    <br><br>
     <div align="center">
-    <img src="Images/mobile.jfif" alt="Octocat" style="width: 100%; max-width: 200px; height: auto;">
-</div>
-<br><br><br>
-<br><br><br>
-<div align="center">
-  <h1>Mathematics</h1>
-  <h1 align="center">
+    <img src="Images/maths.png" alt="maths" style="width: 100%; max-width: 200px; height: auto;">
+  <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
-</h1>
+</h3>
 <hr/>
 <h2>Advanced Calculus - 1</h2>
 <div style="text-align: center;">

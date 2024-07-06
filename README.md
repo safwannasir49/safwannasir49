@@ -8,7 +8,7 @@
 <!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 -->
 
-<img src="logo.png" alt="logo">
+<img src="Images/logos.png" alt="logo">
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jost&pause=1000&center=true&random=false&width=435&lines=I'm+a+Fervent+AI+Developer!"/>
@@ -971,7 +971,7 @@
 </div>
  <br><br>
  <p>
-     <img src="name.png">
+     <img src="Images/names.png">
  </p>
  <h2 align="center">Read.Me Stats</h2>
 <table>
@@ -1009,7 +1009,7 @@
 -->
 <hr/>
 <p>
-    <img src="SAFWANNASIR.png">
+    <img src="Images/nsser.png">
 </p>
 <hr/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, feel free to reach out!</b> :)</em>
@@ -1022,28 +1022,24 @@
 
 <h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center" style="margin-bottom: 30px;">
-  <a href="mailto:kirannaragund197@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" />
+  <a href="mailto:safwannasir49@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="Images/gmail.png" width=50 height=50 alt="safwannasir49@gmail.com" />
   </a>
 
-  <a href="https://x.com/kiran__a__n" target="_blank" style="margin: 0 15px;">
-    <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" />
+  <a href="https://x.com/safwannasir49" target="_blank" style="margin: 0 15px;">
+    <img src="Images/twitter.png" width=50 height=50 alt="kiran__a__n" />
   </a>
 
-  <a href="https://www.instagram.com/kiran_a_n" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.instagram.com/safwan_nasir_" target="_blank" style="margin: 0 15px;">
     <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" />
   </a>
 
-  <a href="https://www.github.com/Kiran1689" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.github.com/safwannasir49" target="_blank" style="margin: 0 15px;">
     <img src="./github.png" width=50 height=50 alt="Kiran1689" />
   </a>
 
-  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/safwannasir49/" target="_blank" style="margin: 0 15px;">
     <img src="./linkedin.png" width=50 height=50 alt="linkedin" />
-  </a>
-
-  <a href="https://dev.to/dev_kiran" target="_blank" style="margin: 0 15px;">
-    <img src="./dev_to.png" width=50 height=50 alt="dev_kiran" />
   </a>
 </div>
 

@@ -456,6 +456,7 @@
 <br />
 <br />
 <hr/>
+<img src="Images/ml.png">
 <!--
 <hr/>
     <br>
@@ -465,9 +466,7 @@
         </div>
     <hr/>
 -->
-        <br><br><br><br><br><br>
-<div align="center">
-<h1 align="center">Machine Learning</h1>
+<hr/>
 <hr/>
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>

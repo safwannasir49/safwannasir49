@@ -1035,7 +1035,7 @@
   </a>
 
   <a href="https://www.github.com/safwannasir49" target="_blank" style="margin: 0 15px;">
-    <img src="./github.png" width=50 height=50 alt="Kiran1689" />
+    <img src="./github.png" width=50 height=50 alt="safwannasir49" />
   </a>
 
   <a href="https://www.linkedin.com/in/safwannasir49/" target="_blank" style="margin: 0 15px;">

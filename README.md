@@ -467,10 +467,9 @@
     <hr/>
 -->
 <hr/>
-<hr/>
-<h1 align="center">
+<h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
-</h1>
+</h3>
     </div>
         <br>
     <div align="center">

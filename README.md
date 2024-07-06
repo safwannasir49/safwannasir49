@@ -432,9 +432,9 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="Images/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="Images/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="Images/Skills_Animation_White.gif">
 </picture>
 <br />
 
@@ -1027,19 +1027,19 @@
   </a>
 
   <a href="https://x.com/safwannasir49" target="_blank" style="margin: 0 15px;">
-    <img src="Images/twitter.png" width=50 height=50 alt="kiran__a__n" />
+    <img src="Images/twitter.png" width=50 height=50 alt="safwannasir49" />
   </a>
 
   <a href="https://www.instagram.com/safwan_nasir_" target="_blank" style="margin: 0 15px;">
-    <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" />
+    <img src="Images/instagram.png" width=50 height=50 alt="safwannasir49" />
   </a>
 
   <a href="https://www.github.com/safwannasir49" target="_blank" style="margin: 0 15px;">
-    <img src="./github.png" width=50 height=50 alt="safwannasir49" />
+    <img src="Images/github.png" width=50 height=50 alt="safwannasir49" />
   </a>
 
   <a href="https://www.linkedin.com/in/safwannasir49/" target="_blank" style="margin: 0 15px;">
-    <img src="./linkedin.png" width=50 height=50 alt="linkedin" />
+    <img src="Images/linkedin.png" width=50 height=50 alt="linkedin" />
   </a>
 </div>
 

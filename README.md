@@ -853,7 +853,7 @@
 </h1>
  <hr/>
      <br>
-     <h3>Data Frames & Datasets, Series and Columns, Index & Sorting, Filetring Data Frames (Section-1)</h3>
+     <h3>Data Handling (Section-1)</h3>
      <br>
      <div style="text-align: center;">
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">

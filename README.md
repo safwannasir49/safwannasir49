@@ -741,105 +741,113 @@
 <div align="center">
     <h3 align="center">Field of Data Science (Section - 1)</h3>
     <br>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/various%20data%20science%20discipline-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Field of Data Science" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Connecting%20Data%20Science%20Disciplines-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Connecting Data Science Disciplines" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Benefits%20of%20Each%20Discipline-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Benefits of Each Discipline" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Techniques-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Popular Data Science Techniques" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Tools-%23007BFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Popular Data Science Tools" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Debunking%20Common%20Misconceptions-%23E91E63.svg?style=for-the-badge&logo=python&logoColor=white" alt="Debunking Common Misconceptions" style="height: 25px; vertical-align: middle;">
-    </a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/various%20data%20science%20discipline-%236B8E23.svg?style=for-the-badge&logo=python&logoColor=white" alt="Field of Data Science" style="height: 25px; vertical-align: middle;">
+</a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Connecting%20Data%20Science%20Disciplines-%23969696.svg?style=for-the-badge&logo=python&logoColor=white" alt="Connecting Data Science Disciplines" style="height: 25px; vertical-align: middle;">
+</a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Benefits%20of%20Each%20Discipline-%23D2691E.svg?style=for-the-badge&logo=python&logoColor=white" alt="Benefits of Each Discipline" style="height: 25px; vertical-align: middle;">
+</a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Techniques-%238A2BE2.svg?style=for-the-badge&logo=python&logoColor=white" alt="Popular Data Science Techniques" style="height: 25px; vertical-align: middle;">
+</a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Popular%20Data%20Science%20Tools-%235F9EA0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Popular Data Science Tools" style="height: 25px; vertical-align: middle;">
+</a>
+<a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Debunking%20Common%20Misconceptions-%23CD5C5C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Debunking Common Misconceptions" style="height: 25px; vertical-align: middle;">
+</a>
+
+
 </div>
 <br><br><br>
 <!-- Section - 2 Probability -->
 <h3 align="center">Probability (Section-2)</h3>
-
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Introduction-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Introduction" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Introduction-%236B8E23.svg?style=for-the-badge&logo=python&logoColor=white" alt="Introduction" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Combinatorics-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Combinatorics" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Combinatorics-%23FF7F50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Combinatorics" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Bayesian%20Inference-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Bayesian Inference" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Bayesian%20Inference-%23D2691E.svg?style=for-the-badge&logo=python&logoColor=white" alt="Bayesian Inference" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Probability%20in%20Other%20Fields-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Probability in Other Fields" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Probability%20in%20Other%20Fields-%238A2BE2.svg?style=for-the-badge&logo=python&logoColor=white" alt="Probability in Other Fields" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
 
 <br><br>
 <!-- Section - 3 Statistics -->
 <h3 align="center">Statistics (Section - 3)</h3>
-
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Descriptive%20Statistics-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Descriptive Statistics" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Descriptive%20Statistics-%236B8E23.svg?style=for-the-badge&logo=python&logoColor=white" alt="Descriptive Statistics" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Practical%20Example:%20Descriptive%20Statistics-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Descriptive Statistics" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Descriptive%20Statistics-%23FF7F50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Descriptive Statistics" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Inferential%20Statistics%20Fundamentals-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Inferential Statistics Fundamentals" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Inferential%20Statistics%20Fundamentals-%23D2691E.svg?style=for-the-badge&logo=python&logoColor=white" alt="Inferential Statistics Fundamentals" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Confidence%20Intervals-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Confidence Intervals" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Confidence%20Intervals-%238A2BE2.svg?style=for-the-badge&logo=python&logoColor=white" alt="Confidence Intervals" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%23007BFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Inferential Statistics" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Practical%20Example:%20Inferential%20Statistics-%235F9EA0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Inferential Statistics" style="height: 25px; vertical-align: middle;">
     </a>
     <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Hypothesis%20Testing-%23E91E63.svg?style=for-the-badge&logo=python&logoColor=white" alt="Hypothesis Testing" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Hypothesis%20Testing-%23CD5C5C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Hypothesis Testing" style="height: 25px; vertical-align: middle;">
     </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Practical%20Example:%20Hypothesis%20Testing-%23FF9800.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Hypothesis Testing" style="height: 25px; vertical-align: middle;">
-    </a>
+  <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Practical%20Example:%20Hypothesis%20Testing-%236A5ACD.svg?style=for-the-badge&logo=python&logoColor=white" alt="Practical Example: Hypothesis Testing" style="height: 25px; vertical-align: middle;">
+</a>
+
 </div>
 
 <br><br>
 
 <!-- Section - 4 Advanced Statistical Methods -->
 <h3 align="center">Advanced Statistical Methods (Section - 4)</h3>
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Advanced-Statistical-Methods" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Advanced%20Statistical%20Methods-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Statistical Methods" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Advanced%20Statistical%20Methods-%236B8E23.svg?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Statistical Methods" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
 
 <!-- Section - 5 Mathematics -->
 <h3 align="center">Mathematics (Section - 5)</h3>
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Mathematics" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Mathematics-%237B68EE.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mathematics" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Mathematics-%23FF7F50.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mathematics" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
 
 <!-- Section - 6 Deep Learning -->
 <h3 align="center">Deep Learning (Section - 6)</h3>
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Deep-Learning" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Deep%20Learning-%23FF7E79.svg?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Deep%20Learning-%23D2691E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Deep Learning" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
 
 <!-- Section - 7 Software Integration -->
 <h3 align="center">Software Integration (Section - 7)</h3>
+<br>
 <div align="center">
     <a href="https://github.com/safwannasir49/Software-Integration" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Software%20Integration-%23DAA520.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/Software%20Integration-%238A2BE2.svg?style=for-the-badge&logo=github&logoColor=white" alt="Software Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
+
 <br><br><br>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Science!+%F0%9F%98%84"/>

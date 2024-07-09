@@ -386,9 +386,10 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>
-<hr/>
+    <br>
  <div align="center">
         <h3>Languages</h3>
+     <hr/>
         <a href="https://github.com/safwannasir49/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Python" style="height: 25px;">
 </a>
@@ -396,9 +397,10 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Java-%23F89820.svg?style=for-the-badge&logo=coffeescript&logoColor=white" alt="100 Days of Java" style="height: 25px;">
 </a>
     </div>
-    <br>
+    <br><br>
     <div align="center">
     <h3>Leetcode</h3>
+        <hr/>
 <a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Leetcode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode 75" style="height: 25px;">
 </a><a href="https://github.com/yourusername/top-100-liked" target="_blank" rel="noopener noreferrer nofollow">
@@ -411,9 +413,10 @@
     <img src="https://img.shields.io/badge/30%20Days%20of%20JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="30 Days of JS" style="height: 25px;">
 </a>
     </div>
-        <br>
+        <br><br>
 <div align="center">
     <h3>100 Days</h3>
+    <hr/>
     <a href="https://github.com/yourusername/100-days-of-machine-learning" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Machine Learning" style="height: 25px;">
 </a><a href="https://github.com/yourusername/100-days-of-web-development" target="_blank" rel="noopener noreferrer nofollow">
@@ -421,6 +424,45 @@
 </a><a href="https://github.com/yourusername/100-days-of-data-analytics" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
+    <br><br>
+<h3 align="center">Hackerrank</h3>
+<hr/>
+
+<div align="center">
+    <a href="https://github.com/yourusername/algorithms" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Algorithms-%231E90FF.svg?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/data-structures" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Data%20Structures-%2300C853.svg?style=for-the-badge&logo=data-structures&logoColor=white" alt="Data Structures" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/mathematics" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Mathematics-%23FF5722.svg?style=for-the-badge&logo=mathematics&logoColor=white" alt="Mathematics" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23039BE5.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Artificial Intelligence" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/c" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/java" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/sql" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/SQL-%234475A4.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/databases" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Databases-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white" alt="Databases" style="height: 25px;">
+    </a>
+    <a href="https://github.com/yourusername/functional-programming" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Functional%20Programming-%233F7F4C.svg?style=for-the-badge&logo=programming&logoColor=white" alt="Functional Programming" style="height: 25px;">
+    </a>
+</div>
+
+</div>
+
 </div>
 <br><br><br>
 <h3 align="center">

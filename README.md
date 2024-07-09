@@ -446,8 +446,7 @@
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil">21 VS Code Extensions To Boost Your Productivity</a></li>
+<ul align="left">Exploring the Frontier of AI:Deep Learning, Machine Learning, and More</a></li>
   <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
   <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your coding Agent🤖</a></li>
 </ul>

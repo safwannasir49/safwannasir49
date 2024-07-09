@@ -955,10 +955,11 @@
 <a href="https://github.com/safwannasir49/Differential-Calculus-II" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Differential%20Calculus%20-%20II-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Differential Calculus - II" style="height: 25px; vertical-align: middle;">
 </a>
-
-<a href="https://github.com/safwannasir49/First-Order-First-Degree-Linear-Differential-Equations" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/First%20order%20and%20first%20degree%20linear%20differential%20equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="First Order and First Degree Linear Differential Equations" style="height: 25px; vertical-align: middle;">
+<a href="https://github.com/safwannasir49/Solution-PDEs-Finite-Difference-Method" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Solution%20of%20PDE’s%20using%20Finite%20difference%20method-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Solution of PDE’s using Finite difference method" style="height: 25px; vertical-align: middle;">
 </a>
+
+
 <a href="https://github.com/safwannasir49/Numerical-Solution-First-Order-ODE-1" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Numerical%20solution%20of%20first%20order%20ODE%20-%201-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Numerical solution of first order ODE - 1" style="height: 25px; vertical-align: middle;">
 </a>
@@ -974,8 +975,8 @@
 <a href="https://github.com/safwannasir49/Partial-Differential-Equations" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Partial%20differential%20equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Partial Differential Equations" style="height: 25px; vertical-align: middle;">
 </a>
-<a href="https://github.com/safwannasir49/Solution-PDEs-Finite-Difference-Method-2" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Solution%20of%20PDE’s%20using%20Finite%20difference%20method%20-%202-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Solution of PDE’s using Finite difference method - 2" style="height: 25px; vertical-align: middle;">
+<a href="https://github.com/safwannasir49/First-Order-First-Degree-Linear-Differential-Equations" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/First%20order%20and%20first%20degree%20linear%20differential%20equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="First Order and First Degree Linear Differential Equations" style="height: 25px; vertical-align: middle;">
 </a>
 
 

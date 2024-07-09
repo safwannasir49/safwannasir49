@@ -446,9 +446,12 @@
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
-<ul align="left">Exploring the Frontier of AI:Deep Learning, Machine Learning, and More</a></li>
-  <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
-  <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your coding Agent🤖</a></li>
+<ul align="left">
+    <li><a href="https://dev.to/safwan_nasir_51209157325d/exploring-the-frontier-of-ai-deep-learning-machine-learning-and-more-35bg">Exploring the Frontier of AI: Deep Learning, Machine Learning, and More</a></li>
+    <li><a href="https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7">HTML Tags You Might Not Know About</a></li>
+    <li><a href="https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie">Meet Codiumate - Your Coding Agent 🤖</a></li>
+</ul>
+
 </ul>
 <br />
 <br />

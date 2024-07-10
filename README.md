@@ -992,7 +992,6 @@
         <img src="https://img.shields.io/badge/Vector%20Integration-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Vector Integration" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-<h2>Batches for Multivariate Calculus & Differential Equations</h2>
 <br><br><br>
 <h2>Multivariate Calculus & Differential Equations</h2>
 

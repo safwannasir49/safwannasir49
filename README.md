@@ -462,7 +462,7 @@
 
 <br><br><br>
 
-### Comprehensive LeetCode Problem Set(1086 Problems)
+### Comprehensive LeetCode Problem Set (1086 Problems)
 
 <a href="https://github.com/yourusername/leetcode-comprehensive-set" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Comprehensive%20LeetCode%20Problem%20Set-%231E90FF.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Comprehensive LeetCode Problem Set">

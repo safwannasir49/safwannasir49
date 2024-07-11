@@ -397,6 +397,7 @@
     <img src="https://img.shields.io/badge/100%20Days%20of%20Java-%23F89820.svg?style=for-the-badge&logo=coffeescript&logoColor=white" alt="100 Days of Java" style="height: 25px;">
 </a>
     </div>
+<hr/>
     <br><br>
     <div align="center">
     <h1>Leetcode</h1>
@@ -685,6 +686,7 @@
 </a>
         </div>
     </div>
+<hr/>
         <br><br>
 <div align="center">
     <h3>100 Days</h3>
@@ -696,6 +698,7 @@
 </a><a href="https://github.com/yourusername/100-days-of-data-analytics" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Data%20Analytics-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Data Analytics" style="height: 25px;">
 </a>
+    <hr/>
     <br><br>
 <h3 align="center">Hackerrank</h3>
 <hr/>
@@ -736,6 +739,7 @@
 </div>
 
 </div>
+<hr/>
 <br><br><br>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Challanges!+%F0%9F%98%84"/>

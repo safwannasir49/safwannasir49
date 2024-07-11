@@ -382,7 +382,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">Challenges</h2>
+<h1 align="center">Challenges</h1>
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>
@@ -399,19 +399,291 @@
     </div>
     <br><br>
     <div align="center">
-    <h3>Leetcode</h3>
+    <h1>Leetcode</h1>
         <hr/>
-<a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Leetcode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode 75" style="height: 25px;">
-</a><a href="https://github.com/yourusername/top-100-liked" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%20100%20Liked-%238E44AD.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 100 Liked" style="height: 25px;">
-</a><a href="https://github.com/yourusername/top-interview-150" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Top%20Interview%20150-%234CAF50.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top Interview 150" style="height: 25px;">
-</a><a href="https://github.com/yourusername/30-days-of-pandas" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%231506F0.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="30 Days of Pandas" style="height: 25px;">
-</a><a href="https://github.com/yourusername/30-days-of-js" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="30 Days of JS" style="height: 25px;">
+<h3 align="center">Introduction To</h3>
+
+<a href="https://github.com/yourusername/introduction-to-pandas" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Introduction%20to%20Pandas-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Introduction to Pandas">
 </a>
+<br><br><br>
+
+
+### 30 Days Challenge
+
+<a href="https://github.com/yourusername/30-days-of-pandas" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="30 Days of Pandas">
+</a>
+<a href="https://github.com/yourusername/30-days-of-javascript" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20JavaScript-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="30 Days of JavaScript">
+</a>
+<br><br><br>
+
+### Cracking Coding Interview
+
+<a href="https://github.com/yourusername/top-interview-150" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%20Interview%20150-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top Interview 150">
+</a>
+<a href="https://github.com/yourusername/leetcode-75" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/LeetCode%2075-%23FFA500.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 75">
+</a>
+<a href="https://github.com/yourusername/top-100-liked" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Top%20100%20Liked-%238E44AD.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 100 Liked">
+</a>
+<a href="https://github.com/yourusername/sql-50" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/SQL%2050-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="SQL 50">
+</a>
+<br><br><br>
+
+### Sprint Interview
+
+<a href="https://github.com/yourusername/amazon-spring-23" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Amazon%20Spring%20'23%20High%20Frequency-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Amazon Spring '23 High Frequency">
+</a>
+<a href="https://github.com/yourusername/google-spring-23" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Google%20Spring%20'23%20High%20Frequency-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Google Spring '23 High Frequency">
+</a>
+<br><br><br>
+
+### In-Depth Topics
+
+<a href="https://github.com/yourusername/programming-skills" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Programming%20Skills-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Programming Skills">
+</a>
+<a href="https://github.com/yourusername/dynamic-programming" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Dynamic%20Programming-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dynamic Programming">
+</a>
+<a href="https://github.com/yourusername/graph-theory" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Graph%20Theory-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Graph Theory">
+</a>
+<a href="https://github.com/yourusername/binary-search" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Binary%20Search-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Binary Search">
+</a>
+
+<br><br><br>
+
+### Comprehensive LeetCode Problem Set(1086 Problems)
+
+<a href="https://github.com/yourusername/leetcode-comprehensive-set" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Comprehensive%20LeetCode%20Problem%20Set-%231E90FF.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Comprehensive LeetCode Problem Set">
+</a>
+
+<br><br><br>
+
+### Data Structures & Algorithms
+<br>
+<div align="center">
+        <a href="https://github.com/yourusername/array" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Array-1678-%2334D058.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Array">
+</a>
+<a href="https://github.com/yourusername/string" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/String-705-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="String">
+</a>
+<a href="https://github.com/yourusername/hash-table" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Hash%20Table-613-%23858D8A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hash Table">
+</a>
+<a href="https://github.com/yourusername/dynamic-programming" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Dynamic%20Programming-510-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dynamic Programming">
+</a>
+<a href="https://github.com/yourusername/math" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Math-502-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Math">
+</a>
+<a href="https://github.com/yourusername/sorting" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Sorting-406-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Sorting">
+</a>
+<a href="https://github.com/yourusername/greedy" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Greedy-365-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Greedy">
+</a>
+<a href="https://github.com/yourusername/depth-first-search" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Depth--First%20Search-288-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Depth-First Search">
+</a>
+<a href="https://github.com/yourusername/database" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Database-272-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Database">
+</a>
+<a href="https://github.com/yourusername/binary-search" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Binary%20Search-269-%2334D058.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Binary Search">
+</a>
+<a href="https://github.com/yourusername/tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Tree-229-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Tree">
+</a>
+<a href="https://github.com/yourusername/breadth-first-search" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Breadth--First%20Search-228-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Breadth-First Search">
+</a>
+<a href="https://github.com/yourusername/matrix" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Matrix-225-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Matrix">
+</a>
+<a href="https://github.com/yourusername/bit-manipulation" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Bit%20Manipulation-214-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Bit Manipulation">
+</a>
+<a href="https://github.com/yourusername/two-pointers" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Two%20Pointers-203-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Two Pointers">
+</a>
+<a href="https://github.com/yourusername/binary-tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Binary%20Tree-175-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Binary Tree">
+</a>
+<a href="https://github.com/yourusername/heap" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Heap%20(Priority%20Queue)-169-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Heap (Priority Queue)">
+</a>
+<a href="https://github.com/yourusername/prefix-sum" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Prefix%20Sum-163-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Prefix Sum">
+</a>
+<a href="https://github.com/yourusername/stack" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Stack-155-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Stack">
+</a>
+<a href="https://github.com/yourusername/simulation" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Simulation-153-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Simulation">
+</a>
+<a href="https://github.com/yourusername/graph" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Graph-142-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Graph">
+</a>
+<a href="https://github.com/yourusername/counting" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Counting-133-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Counting">
+</a>
+<a href="https://github.com/yourusername/design" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Design-123-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Design">
+</a>
+<a href="https://github.com/yourusername/sliding-window" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Sliding%20Window-119-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Sliding Window">
+</a>
+<a href="https://github.com/yourusername/backtracking" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Backtracking-102-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Backtracking">
+</a>
+<a href="https://github.com/yourusername/enumeration" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Enumeration-86-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Enumeration">
+</a>
+<a href="https://github.com/yourusername/union-find" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Union%20Find-82-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Union Find">
+</a>
+<a href="https://github.com/yourusername/linked-list" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Linked%20List-75-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Linked List">
+</a>
+<a href="https://github.com/yourusername/ordered-set" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Ordered%20Set-61-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Ordered Set">
+</a>
+<a href="https://github.com/yourusername/monotonic-stack" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Monotonic%20Stack-58-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Monotonic Stack">
+</a>
+<a href="https://github.com/yourusername/number-theory" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Number%20Theory-55-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Number Theory">
+</a>
+<a href="https://github.com/yourusername/trie" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Trie-53-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Trie">
+</a>
+<a href="https://github.com/yourusername/divide-and-conquer" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Divide%20and%20Conquer-47-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Divide and Conquer">
+</a>
+<a href="https://github.com/yourusername/segment-tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Segment%20Tree-46-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Segment Tree">
+</a>
+<a href="https://github.com/yourusername/bitmask" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Bitmask-45-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Bitmask">
+</a>
+<a href="https://github.com/yourusername/queue" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Queue-45-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Queue">
+</a>
+<a href="https://github.com/yourusername/recursion" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Recursion-45-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Recursion">
+</a>
+<a href="https://github.com/yourusername/binary-search-tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Binary%20Search%20Tree-40-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Binary Search Tree">
+</a>
+<a href="https://github.com/yourusername/memoization" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Memoization-38-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Memoization">
+</a>
+<a href="https://github.com/yourusername/binary-indexed-tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Binary%20Indexed%20Tree-38-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Binary Indexed Tree">
+</a>
+<a href="https://github.com/yourusername/geometry" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Geometry-37-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Geometry">
+</a>
+<a href="https://github.com/yourusername/hash-function" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Hash%20Function-36-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hash Function">
+</a>
+<a href="https://github.com/yourusername/combinatorics" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Combinatorics-33-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Combinatorics">
+</a>
+<a href="https://github.com/yourusername/topological-sort" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Topological%20Sort-32-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Topological Sort">
+</a>
+<a href="https://github.com/yourusername/string-matching" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/String%20Matching-30-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="String Matching">
+</a>
+<a href="https://github.com/yourusername/shortest-path" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Shortest%20Path-28-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Shortest Path">
+</a>
+<a href="https://github.com/yourusername/rolling-hash" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Rolling%20Hash-28-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rolling Hash">
+</a>
+<a href="https://github.com/yourusername/game-theory" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Game%20Theory-25-%236C9DC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Game Theory">
+</a>
+<a href="https://github.com/yourusername/interactive" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Interactive-23-%237E8AA2.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Interactive">
+</a>
+<a href="https://github.com/yourusername/data-stream" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Data%20Stream-20-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Stream">
+</a>
+<a href="https://github.com/yourusername/brainteaser" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Brainteaser-16-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Brainteaser">
+</a>
+<a href="https://github.com/yourusername/monotonic-queue" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Monotonic%20Queue-15-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Monotonic Queue">
+</a>
+<a href="https://github.com/yourusername/randomized" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Randomized-12-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Randomized">
+</a>
+<a href="https://github.com/yourusername/merge-sort" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Merge%20Sort-12-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Merge Sort">
+</a>
+<a href="https://github.com/yourusername/iterator" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Iterator-9-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Iterator">
+</a>
+<a href="https://github.com/yourusername/concurrency" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Concurrency-9-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Concurrency">
+</a>
+<a href="https://github.com/yourusername/doubly-linked-list" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Doubly--Linked%20List-8-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Doubly-Linked List">
+</a>
+<a href="https://github.com/yourusername/probability-and-statistics" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Probability%20and%20Statistics-7-%23F0DB4F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Probability and Statistics">
+</a>
+<a href="https://github.com/yourusername/quickselect" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Quickselect-7-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Quickselect">
+</a>
+<a href="https://github.com/yourusername/counting-sort" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Counting%20Sort-6-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Counting Sort">
+</a>
+<a href="https://github.com/yourusername/bucket-sort" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Bucket%20Sort-6-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Bucket Sort">
+</a>
+<a href="https://github.com/yourusername/suffix-array" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Suffix%20Array-6-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Suffix Array">
+</a>
+<a href="https://github.com/yourusername/minimum-spanning-tree" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Minimum%20Spanning%20Tree-5-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Minimum Spanning Tree">
+</a>
+<a href="https://github.com/yourusername/shell" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Shell-4-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Shell">
+</a>
+<a href="https://github.com/yourusername/line-sweep" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Line%20Sweep-4-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Line Sweep">
+</a>
+<a href="https://github.com/yourusername/reservoir-sampling" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Reservoir%20Sampling-4-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Reservoir Sampling">
+</a>
+<a href="https://github.com/yourusername/strongly-connected-component" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Strongly%20Connected%20Component-3-%238CC152.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Strongly Connected Component">
+</a>
+<a href="https://github.com/yourusername/eulerian-circuit" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Eulerian%20Circuit-3-%23FF6F61.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Eulerian Circuit">
+</a>
+<a href="https://github.com/yourusername/radix-sort" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Radix%20Sort-3-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Radix Sort">
+</a>
+<a href="https://github.com/yourusername/rejection-sampling" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Rejection%20Sampling-2-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rejection Sampling">
+</a>
+        </div>
     </div>
         <br><br>
 <div align="center">

@@ -393,7 +393,7 @@
         <a href="https://github.com/safwannasir49/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Python" style="height: 25px;">
 </a>
-     <a href="https://github.com/safwannasir49/100-days-of-java" target="_blank" rel="noopener noreferrer nofollow">
+     <a href="https://github.com/safwannasir49/100DaysOfJava" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Java-%23F89820.svg?style=for-the-badge&logo=coffeescript&logoColor=white" alt="100 Days of Java" style="height: 25px;">
 </a>
     </div>

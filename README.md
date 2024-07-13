@@ -413,11 +413,12 @@
 ### 30 Days Challenge
 
 <a href="https://github.com/yourusername/30-days-of-pandas" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="30 Days of Pandas">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20Pandas-%239E5A5A.svg?style=for-the-badge&logo=python&logoColor=white" alt="30 Days of Pandas">
 </a>
 <a href="https://github.com/yourusername/30-days-of-javascript" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/30%20Days%20of%20JavaScript-%23F39C12.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="30 Days of JavaScript">
+    <img src="https://img.shields.io/badge/30%20Days%20of%20JavaScript-%23F39C12.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="30 Days of JavaScript">
 </a>
+
 <br><br><br>
 
 ### Cracking Coding Interview
@@ -465,9 +466,10 @@
 
 ### Comprehensive LeetCode Problem Set (1086 Problems)
 
-<a href="https://github.com/yourusername/leetcode-comprehensive-set" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Comprehensive%20LeetCode%20Problem%20Set-%231E90FF.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Comprehensive LeetCode Problem Set">
+<a href="https://github.com/yourusername/leetcode-problem-set-1086" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/LeetCode%20Problem%20Set%201086-1086-%2334D058.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problem Set 1086">
 </a>
+
 
 <br><br><br>
 
@@ -684,6 +686,7 @@
 <a href="https://github.com/yourusername/rejection-sampling" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Rejection%20Sampling-2-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rejection Sampling">
 </a>
+    <br><br>
         </div>
     </div>
 <hr/>

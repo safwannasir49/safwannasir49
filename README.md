@@ -466,9 +466,11 @@
 
 ### Comprehensive LeetCode Problem Set (1086 Problems)
 
-<a href="https://github.com/yourusername/leetcode-problem-set-1086" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/LeetCode%20Problem%20Set%201086-1086-%2334D058.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problem Set 1086">
+<a href="https://leetcode.com/problemset/all/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Comprehensive_LeetCode_Problem_Set-1086-%23238CC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Comprehensive LeetCode Problem Set 1086">
 </a>
+
+
 
 
 <br><br><br>
@@ -476,9 +478,10 @@
 ### Data Structures & Algorithms
 <br>
 <div align="center">
-        <a href="https://github.com/yourusername/array" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Array-1678-%2334D058.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Array">
+  <a href="https://github.com/yourusername/array" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Array-1678-%23238CC1.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Array">
 </a>
+
 <a href="https://github.com/yourusername/string" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/String-705-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="String">
 </a>

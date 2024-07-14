@@ -724,35 +724,36 @@
 
 <div align="center">
     <a href="https://github.com/yourusername/algorithms" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Algorithms-%231E90FF.svg?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/data-structures" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Data%20Structures-%2300C853.svg?style=for-the-badge&logo=data-structures&logoColor=white" alt="Data Structures" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/mathematics" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Mathematics-%23FF5722.svg?style=for-the-badge&logo=mathematics&logoColor=white" alt="Mathematics" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23039BE5.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Artificial Intelligence" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/c" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/java" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/python" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/sql" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/SQL-%234475A4.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/databases" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Databases-%23007ACC.svg?style=for-the-badge&logo=database&logoColor=white" alt="Databases" style="height: 25px;">
-    </a>
-    <a href="https://github.com/yourusername/functional-programming" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Functional%20Programming-%233F7F4C.svg?style=for-the-badge&logo=programming&logoColor=white" alt="Functional Programming" style="height: 25px;">
-    </a>
+    <img src="https://img.shields.io/badge/Algorithms-%231E90FF.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/data-structures" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Data%20Structures-%2300C853.svg?style=for-the-badge&logo=buffer&logoColor=white" alt="Data Structures" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/mathematics" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Mathematics-%23FF5722.svg?style=for-the-badge&logo=mathematica&logoColor=white" alt="Mathematics" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23039BE5.svg?style=for-the-badge&logo=openaigym&logoColor=white" alt="Artificial Intelligence" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/c" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/java" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/python" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/sql" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/SQL-%234475A4.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/databases" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Databases-%23007ACC.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Databases" style="height: 25px;">
+</a>
+<a href="https://github.com/yourusername/functional-programming" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Functional%20Programming-%233F7F4C.svg?style=for-the-badge&logo=haskell&logoColor=white" alt="Functional Programming" style="height: 25px;">
+</a>
+
 </div>
 
 </div>

@@ -106,6 +106,16 @@
 
 
 <br><br><br>
+<div align="center">
+    <a href="https://drive.google.com/file/d/12PwJsk8oFXDtffd_gyJZssyOrEcnv5mo/view?usp=sharing" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Resume-%234CAF50.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="height: 25px;">
+</a>
+    <a href="https://safwannasir49.github.io/Portfolio" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" style="height: 25px;">
+</a>
+
+</div>
+<br><br><br>
 <!--
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">

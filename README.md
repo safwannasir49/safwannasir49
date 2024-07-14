@@ -86,6 +86,8 @@
 🌱 Passionate about learning Machine Learning and Artificial Intelligence
 
 
+<br><br><br><br><br>
+<hr/>
 <br><br>
 <div align="center">
         <a href="https://safwannasir49.github.io/Portfolio" target="_blank" rel="noopener noreferrer nofollow">
@@ -95,7 +97,9 @@
     <img src="https://img.shields.io/badge/Resume-%234CAF50.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="height: 25px;">
 </a>
 </div>
-<br><br><br>
+<br><br>
+<hr/>
+<br><br><br><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

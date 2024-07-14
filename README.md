@@ -127,6 +127,7 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
    <div align = "center">
         <h2 align="center">Languages</h2>
+       <br>
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 40px; height: 40px; margin: 5px;">
         </a>
@@ -182,9 +183,12 @@
             </a>
     </div>
 </div>
+            <br>
 <hr/>
+            <br>
     <div align="center">
     <h2 align="center">Tools</h2>
+        <br>
     <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" style="width: 40px; height: 40px; margin: 5px;">
     </a>
@@ -259,9 +263,12 @@
 </a>
 </div>
 </div>
+        <br>
 <hr/>
+        <br>
     <div align="center">
         <h2 align="center">Databases</h2>
+        <br>
         <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
             <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;">
         </a>
@@ -280,9 +287,11 @@
 </div>
     </div>
 </div>
-
+<br>
 <hr/>
+            <br>
 <h2 align="center">Developer / Forums</h2>
+            <br>
 <div align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hackerrank.com/profile/safwannasir49">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
@@ -304,9 +313,12 @@
     <img src="https://img.shields.io/badge/Codility-black?style=for-the-badge" alt="Codility" />
 </a>
 </div>
+<br>
 <hr/>
+<br>
   <div align="center">
         <h2 align="center">Machine Learning / Deep Learning</h2>
+      <br>
         <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="width: 38px; height: 38px; margin: 5px;">
     </a>
@@ -370,6 +382,7 @@
 </a>
 </div>
     </div>
+            <br>
     <hr/> 
     <br>
 
@@ -382,13 +395,13 @@
 <br>
 <br>
 <br>
-<h1 align="center">Challenges</h1>
+<img src="Images/challenges.png">
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h1>
     <br>
  <div align="center">
-        <h3>Languages</h3>
+        <img src="Images/languages.png">
      <hr/>
         <a href="https://github.com/safwannasir49/100-days-of-python" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Python" style="height: 25px;">
@@ -400,7 +413,7 @@
 <hr/>
     <br><br>
     <div align="center">
-    <h1>Leetcode</h1>
+    <img src="Images/leetcode.png">
         <hr/>
 <h3 align="center">Introduction To</h3>
 
@@ -689,13 +702,13 @@
 <a href="https://github.com/yourusername/rejection-sampling" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Rejection%20Sampling-2-%239E5A5A.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rejection Sampling">
 </a>
-    <br><br>
+    <br><br><br>
         </div>
     </div>
 <hr/>
         <br><br>
 <div align="center">
-    <h3>100 Days</h3>
+    <img src="Images/100days.png">
     <hr/>
     <a href="https://github.com/yourusername/100-days-of-machine-learning" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/100%20Days%20of%20Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white" alt="100 Days of Machine Learning" style="height: 25px;">
@@ -706,7 +719,7 @@
 </a>
     <hr/>
     <br><br>
-<h3 align="center">Hackerrank</h3>
+<img src="Images/hackerrank.png">
 <hr/>
 
 <div align="center">

@@ -855,6 +855,51 @@
     <a href="https://github.com/safwannasir49/Simple-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Simple%20Regression%20in%20R%20Studio-%23FF7E79.svg?style=for-the-badge&logo=r&logoColor=white" alt="Simple Regression in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
+    <!-- Predictive Analytics for Customer Churn -->
+<a href="https://github.com/safwannasir49/Predictive-Analytics-for-Customer-Churn" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Predictive%20Analytics%20for%20Customer%20Churn-%2334D058.svg?style=for-the-badge&logo=github&logoColor=white" alt="Predictive Analytics for Customer Churn" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Sentiment Analysis on Social Media -->
+<a href="https://github.com/safwannasir49/Sentiment-Analysis-on-Social-Media" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Sentiment%20Analysis%20on%20Social%20Media-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sentiment Analysis on Social Media" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Stock Price Prediction -->
+<a href="https://github.com/safwannasir49/Stock-Price-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Stock%20Price%20Prediction-%230A66C2.svg?style=for-the-badge&logo=google&logoColor=white" alt="Stock Price Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Recommendation Systems -->
+<a href="https://github.com/safwannasir49/Recommendation-Systems" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Recommendation%20Systems-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white" alt="Recommendation Systems" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Healthcare Predictive Modeling -->
+<a href="https://github.com/safwannasir49/Healthcare-Predictive-Modeling" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Healthcare%20Predictive%20Modeling-%236DB33F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Healthcare Predictive Modeling" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Image Classification with CNNs -->
+<a href="https://github.com/safwannasir49/Image-Classification-with-CNNs" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Image%20Classification%20with%20CNNs-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Image Classification with CNNs" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Customer Segmentation -->
+<a href="https://github.com/safwannasir49/Customer-Segmentation" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Customer%20Segmentation-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Customer Segmentation" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Sales Forecasting -->
+<a href="https://github.com/safwannasir49/Sales-Forecasting" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Sales%20Forecasting-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sales Forecasting" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Fraud Detection -->
+<a href="https://github.com/safwannasir49/Fraud-Detection" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Fraud%20Detection-%23007ec6.svg?style=for-the-badge&logo=python&logoColor=white" alt="Fraud Detection" style="height: 25px; vertical-align: middle;">
+</a>
+
 </div>
 
 <!-- Multiple Linear Regression -->

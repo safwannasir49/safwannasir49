@@ -95,7 +95,7 @@
         <a href="https://safwannasir49.github.io/Portfolio" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" style="height: 25px;">
 </a>
-    <a href="https://drive.google.com/file/d/12PwJsk8oFXDtffd_gyJZssyOrEcnv5mo/view?usp=sharing" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://drive.google.com/file/d/1tuR90pTXbcJeMDX07H13KRI6VIUSQkkA/view?usp=sharing" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Resume-%234CAF50.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="height: 25px;">
 </a>
 </div>

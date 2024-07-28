@@ -855,51 +855,6 @@
     <a href="https://github.com/safwannasir49/Simple-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Simple%20Regression%20in%20R%20Studio-%23FF7E79.svg?style=for-the-badge&logo=r&logoColor=white" alt="Simple Regression in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
-    <!-- Predictive Analytics for Customer Churn -->
-<a href="https://github.com/safwannasir49/Predictive-Analytics-for-Customer-Churn" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Predictive%20Analytics%20for%20Customer%20Churn-%2334D058.svg?style=for-the-badge&logo=github&logoColor=white" alt="Predictive Analytics for Customer Churn" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Sentiment Analysis on Social Media -->
-<a href="https://github.com/safwannasir49/Sentiment-Analysis-on-Social-Media" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Sentiment%20Analysis%20on%20Social%20Media-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Sentiment Analysis on Social Media" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Stock Price Prediction -->
-<a href="https://github.com/safwannasir49/Stock-Price-Prediction" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Stock%20Price%20Prediction-%230A66C2.svg?style=for-the-badge&logo=google&logoColor=white" alt="Stock Price Prediction" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Recommendation Systems -->
-<a href="https://github.com/safwannasir49/Recommendation-Systems" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Recommendation%20Systems-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white" alt="Recommendation Systems" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Healthcare Predictive Modeling -->
-<a href="https://github.com/safwannasir49/Healthcare-Predictive-Modeling" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Healthcare%20Predictive%20Modeling-%236DB33F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Healthcare Predictive Modeling" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Image Classification with CNNs -->
-<a href="https://github.com/safwannasir49/Image-Classification-with-CNNs" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Image%20Classification%20with%20CNNs-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Image Classification with CNNs" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Customer Segmentation -->
-<a href="https://github.com/safwannasir49/Customer-Segmentation" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Customer%20Segmentation-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Customer Segmentation" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Sales Forecasting -->
-<a href="https://github.com/safwannasir49/Sales-Forecasting" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Sales%20Forecasting-%23FF4500.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sales Forecasting" style="height: 25px; vertical-align: middle;">
-</a>
-
-<!-- Fraud Detection -->
-<a href="https://github.com/safwannasir49/Fraud-Detection" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Fraud%20Detection-%23007ec6.svg?style=for-the-badge&logo=python&logoColor=white" alt="Fraud Detection" style="height: 25px; vertical-align: middle;">
-</a>
-
 </div>
 
 <!-- Multiple Linear Regression -->
@@ -913,6 +868,14 @@
     </a>
 </div>
 
+<!-- Logistic Regression -->
+<h4>Logistic Regression</h4>
+    <a href="https://github.com/safwannasir49/Logistic-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20Python-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Logistic Regression in Python" style="height: 25px; vertical-align: middle;">
+    </a>
+    <a href="https://github.com/safwannasir49/Logistic-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20R%20Studio-%23E91E63.svg?style=for-the-badge&logo=r&logoColor=white" alt="Logistic Regression in R Studio" style="height: 25px; vertical-align: middle;">
+    </a>
 <!-- Polynomial Regression -->
 <div>
     <h4>Polynomial Regression</h4>
@@ -966,20 +929,72 @@
     <a href="https://github.com/safwannasir49/SVR-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/SVR%20in%20R%20Studio-%2389D329.svg?style=for-the-badge&logo=r&logoColor=white" alt="SVR in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
+    <br><br>
+<!--Projects On Regression-->
+    <h2>Projects On Regression</h2>
+
+
+<!-- House Price Prediction -->
+<a href="https://github.com/safwannasir49/House-Price-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/House%20Price%20Prediction-%2397CAFC.svg?style=for-the-badge&logo=python&logoColor=white" alt="House Price Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Stock Market Prediction -->
+<a href="https://github.com/safwannasir49/Stock-Market-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Stock%20Market%20Prediction-%23FFB200.svg?style=for-the-badge&logo=python&logoColor=white" alt="Stock Market Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Medical Cost Personal Dataset -->
+<a href="https://github.com/safwannasir49/Medical-Cost-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Medical%20Cost%20Prediction-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white" alt="Medical Cost Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Car Price Prediction -->
+<a href="https://github.com/safwannasir49/Car-Price-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Car%20Price%20Prediction-%238BC34A.svg?style=for-the-badge&logo=python&logoColor=white" alt="Car Price Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Energy Consumption Prediction -->
+<a href="https://github.com/safwannasir49/Energy-Consumption-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Energy%20Consumption%20Prediction-%23F48FB1.svg?style=for-the-badge&logo=python&logoColor=white" alt="Energy Consumption Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Employee Salary Prediction -->
+<a href="https://github.com/safwannasir49/Employee-Salary-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Employee%20Salary%20Prediction-%23FF7043.svg?style=for-the-badge&logo=python&logoColor=white" alt="Employee Salary Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Sales Forecasting -->
+<a href="https://github.com/safwannasir49/Sales-Forecasting" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Sales%20Forecasting-%23BA68C8.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sales Forecasting" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Air Quality Prediction -->
+<a href="https://github.com/safwannasir49/Air-Quality-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Air%20Quality%20Prediction-%239C27B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Air Quality Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Customer Churn Prediction -->
+<a href="https://github.com/safwannasir49/Customer-Churn-Prediction" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Customer%20Churn%20Prediction-%23EF5350.svg?style=for-the-badge&logo=python&logoColor=white" alt="Customer Churn Prediction" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Real Estate Valuation -->
+<a href="https://github.com/safwannasir49/Real-Estate-Valuation" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Real%20Estate%20Valuation-%2364B5F6.svg?style=for-the-badge&logo=python&logoColor=white" alt="Real Estate Valuation" style="height: 25px; vertical-align: middle;">
+</a>
+
+<!-- Medical Insurance Premium -->
+<a href="https://github.com/safwannasir49/Medical-Insurance-Premium" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Medical%20Insurance%20Premium-%23FFA726.svg?style=for-the-badge&logo=python&logoColor=white" alt="Medical Insurance Premium" style="height: 25px; vertical-align: middle;">
+</a>
+
 </div>
 <br><br><br><br>
 <h2 align="center">Classification (Section - 3)</h2>
 <!-- Logistic Regression -->
 <div>
-    <h4>Logistic Regression</h4>
-    <a href="https://github.com/safwannasir49/Logistic-Regression-in-Python" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20Python-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Logistic Regression in Python" style="height: 25px; vertical-align: middle;">
-    </a>
-    <a href="https://github.com/safwannasir49/Logistic-Regression-in-R-Studio" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Logistic%20Regression%20in%20R%20Studio-%23E91E63.svg?style=for-the-badge&logo=r&logoColor=white" alt="Logistic Regression in R Studio" style="height: 25px; vertical-align: middle;">
-    </a>
-</div>
-<!-- Decision Tree Classification -->
+    <!-- Decision Tree Classification -->
 <div>
     <h4>Decision Tree Classification</h4>
     <a href="https://github.com/safwannasir49/Decision-Tree-Classification-in-Python" target="_blank" rel="noopener noreferrer nofollow">
@@ -989,7 +1004,6 @@
         <img src="https://img.shields.io/badge/Decision%20Tree%20Classification%20in%20R%20Studio-%23FF4500.svg?style=for-the-badge&logo=r&logoColor=white" alt="Decision Tree Classification in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-
 <!-- Random Forest Classification -->
 <div>
     <h4>Random Forest Classification</h4>

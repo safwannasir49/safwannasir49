@@ -930,6 +930,7 @@
         <img src="https://img.shields.io/badge/SVR%20in%20R%20Studio-%2389D329.svg?style=for-the-badge&logo=r&logoColor=white" alt="SVR in R Studio" style="height: 25px; vertical-align: middle;">
     </a>
     <br><br>
+    <br><br>
 <!--Projects On Regression-->
     <h2>Projects On Regression</h2>
 

@@ -986,7 +986,7 @@
 </a>
 
 <!-- Medical Insurance Premium -->
-<a href="https://github.com/safwannasir49/Medical-Insurance-Premium" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/MedicalInsurancepremium" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Medical%20Insurance%20Premium-%23FFA726.svg?style=for-the-badge&logo=python&logoColor=white" alt="Medical Insurance Premium" style="height: 25px; vertical-align: middle;">
 </a>
 

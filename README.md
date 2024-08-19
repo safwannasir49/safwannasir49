@@ -102,7 +102,6 @@
         <img src="https://img.shields.io/badge/Linktree-%84b7f9.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="height: 25px;">
     </a>
 </div>
-</div>
 <br><br>
 <hr/>
 <br><br><br><br><br>
@@ -118,8 +117,8 @@
     <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/safwan_nasir_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" />
+    <a href="https://linktr.ee/safwannnasir49" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Linktree-%84c2f9.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="height: 25px;">
     </a>
 </p>
 

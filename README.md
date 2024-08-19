@@ -92,12 +92,16 @@
 </h1>
 <br><br>
 <div align="center">
-        <a href="https://safwannasir49.github.io/Portfolio" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" style="height: 25px;">
-</a>
+    <a href="https://safwannasir49.github.io/Portfolio" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" style="height: 25px;">
+    </a>
     <a href="https://drive.google.com/file/d/1tuR90pTXbcJeMDX07H13KRI6VIUSQkkA/view?usp=sharing" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Resume-%234CAF50.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="height: 25px;">
-</a>
+        <img src="https://img.shields.io/badge/Resume-%234CAF50.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="height: 25px;">
+    </a>
+    <a href="https://linktr.ee/safwannnasir49" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Linktree-%84b7f9.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="height: 25px;">
+    </a>
+</div>
 </div>
 <br><br>
 <hr/>

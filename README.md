@@ -779,11 +779,37 @@
 
 </div>
 <hr/>
-<br><br><br>
+<img src="Images/hackerrank.png">
+<hr/>
+
+<div align="center">
+    <a href="https://github.com/safwannasir49/all-dsa-problems" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/All%20DSA%20Problems-%231E90FF.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="All DSA Problems" style="height: 25px;">
+    </a>
+    <a href="https://github.com/safwannasir49/problem-of-the-day" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Problem%20of%20the%20Day-%23FF5722.svg?style=for-the-badge&logo=buffer&logoColor=white" alt="Problem of the Day" style="height: 25px;">
+    </a>
+    <a href="https://github.com/safwannasir49/java" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 25px;">
+    </a>
+    <a href="https://github.com/safwannasir49/python" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
+    </a>
+</div>
+
+
+</div>
+
+</div>
+
+</div>
+<hr/>
+<br><br>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Challanges!+%F0%9F%98%84"/>
 </h3>
-
+<br><br><br>
+<br><br><br>
 <hr/>
 <br><br>
 <!--Languages and Tools Section-->       

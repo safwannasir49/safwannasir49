@@ -779,7 +779,7 @@
 
 </div>
 <hr/>
-<img src="Images/hackerrank.png">
+<img src="Images/gfg.png">
 <hr/>
 
 <div align="center">

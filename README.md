@@ -763,7 +763,7 @@
 <a href="https://github.com/yourusername/python" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
 </a>
-<a href="https://github.com/yourusername/sql" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/HackerRank-sql" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/SQL-%234475A4.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/databases" target="_blank" rel="noopener noreferrer nofollow">

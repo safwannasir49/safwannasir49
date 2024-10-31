@@ -754,7 +754,7 @@
 <a href="https://github.com/yourusername/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23039BE5.svg?style=for-the-badge&logo=openaigym&logoColor=white" alt="Artificial Intelligence" style="height: 25px;">
 </a>
-<a href="https://github.com/yourusername/c" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/HackerRank-C-Programming" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 25px;">
 </a>
 <a href="https://github.com/yourusername/java" target="_blank" rel="noopener noreferrer nofollow">

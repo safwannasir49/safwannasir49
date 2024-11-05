@@ -757,10 +757,10 @@
 <a href="https://github.com/safwannasir49/HackerRank-C-Programming" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 25px;">
 </a>
-<a href="https://github.com/yourusername/java" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/HackerRank-Java" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 25px;">
 </a>
-<a href="https://github.com/yourusername/python" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://github.com/safwannasir49/HackerRank-Python" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 25px;">
 </a>
 <a href="https://github.com/safwannasir49/HackerRank-sql" target="_blank" rel="noopener noreferrer nofollow">

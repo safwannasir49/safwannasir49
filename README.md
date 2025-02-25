@@ -721,6 +721,8 @@
     <br><br>
 -->
 <img src="Images/dsafundamentals.png">
+<hr/>
+<br>
 <div align="center">
    <a href="https://github.com/safwannasir49/dsa-fundamentals" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/DSA%20Fundamentals-FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="DSA Fundamentals">
@@ -747,9 +749,12 @@
         <img src="https://img.shields.io/badge/Patterns-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="Patterns">
     </a>
 </div>
+<br>
 <hr/>
 <br>
 <img src="Images/dsa.png">
+<hr/>
+<br>
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/Sorting-FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Sorting"></a>
     <a href="#"><img src="https://img.shields.io/badge/Arrays-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Arrays"></a>
@@ -769,6 +774,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Tries-2C3E50.svg?style=for-the-badge&logo=java&logoColor=white" alt="Tries"></a>
     <a href="#"><img src="https://img.shields.io/badge/Strings-EC7063.svg?style=for-the-badge&logo=java&logoColor=white" alt="Strings"></a>
 </div>
+<br>
 <hr/>
 <img src="Images/hackerrank.png">
 <hr/>

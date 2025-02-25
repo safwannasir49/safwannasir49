@@ -756,23 +756,23 @@
 <hr/>
 <br>
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Sorting-FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Sorting"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Arrays-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Arrays"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Binary%20Search-F1C40F.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Search"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Sorting-FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Sorting"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Arrays-27AE60.svg?style=for-the-badge&logo=java&logoColor=white" alt="Arrays"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Binary%20Search-F39C12.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Search"></a>
     <a href="#"><img src="https://img.shields.io/badge/Strings-9B59B6.svg?style=for-the-badge&logo=java&logoColor=white" alt="Strings"></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedList-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="LinkedList"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Recursion-1ABC9C.svg?style=for-the-badge&logo=java&logoColor=white" alt="Recursion"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bit%20Manipulation-16A085.svg?style=for-the-badge&logo=java&logoColor=white" alt="Bit Manipulation"></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedList-D35400.svg?style=for-the-badge&logo=java&logoColor=white" alt="LinkedList"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Recursion-16A085.svg?style=for-the-badge&logo=java&logoColor=white" alt="Recursion"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bit%20Manipulation-8E44AD.svg?style=for-the-badge&logo=java&logoColor=white" alt="Bit Manipulation"></a>
     <a href="#"><img src="https://img.shields.io/badge/Stack%20&%20Queues-C0392B.svg?style=for-the-badge&logo=java&logoColor=white" alt="Stack & Queues"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Sliding%20Window%20&%20Two%20Pointer-8E44AD.svg?style=for-the-badge&logo=java&logoColor=white" alt="Sliding Window & Two Pointer"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Heaps-D35400.svg?style=for-the-badge&logo=java&logoColor=white" alt="Heaps"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Greedy%20Algorithms-27AE60.svg?style=for-the-badge&logo=java&logoColor=white" alt="Greedy Algorithms"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Binary%20Trees-2980B9.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Trees"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Binary%20Search%20Trees-F39C12.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Search Trees"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Sliding%20Window%20&%20Two%20Pointer-2980B9.svg?style=for-the-badge&logo=java&logoColor=white" alt="Sliding Window & Two Pointer"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Heaps-5D6D7E.svg?style=for-the-badge&logo=java&logoColor=white" alt="Heaps"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Greedy%20Algorithms-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Greedy Algorithms"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Binary%20Trees-3498DB.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Trees"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Binary%20Search%20Trees-F1C40F.svg?style=for-the-badge&logo=java&logoColor=white" alt="Binary Search Trees"></a>
     <a href="#"><img src="https://img.shields.io/badge/Graphs-E74C3C.svg?style=for-the-badge&logo=java&logoColor=white" alt="Graphs"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Dynamic%20Programming-8E44AD.svg?style=for-the-badge&logo=java&logoColor=white" alt="Dynamic Programming"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Tries-2C3E50.svg?style=for-the-badge&logo=java&logoColor=white" alt="Tries"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Strings-EC7063.svg?style=for-the-badge&logo=java&logoColor=white" alt="Strings"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Dynamic%20Programming-7D3C98.svg?style=for-the-badge&logo=java&logoColor=white" alt="Dynamic Programming"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Trees-34495E.svg?style=for-the-badge&logo=java&logoColor=white" alt="Tries"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Patterns-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="Patterns"></a>
 </div>
 <br>
 <hr/>

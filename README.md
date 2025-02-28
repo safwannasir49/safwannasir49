@@ -214,9 +214,11 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width: 40px; height: 40px; margin: 5px;">
     </a>
+        <!--
     <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter Notebook" style="width: 40px; height: 40px; margin: 5px;">
     </a>
+        -->
     <a href="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://icon.icepanel.io/Technology/png-shadow-512/Atom.png" alt="Atom" style="width: 40px; height: 40px; margin: 5px;">
     </a>

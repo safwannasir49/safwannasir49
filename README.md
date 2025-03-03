@@ -1380,7 +1380,6 @@
 </div>
  <br><br>
  </div>
- -->
  <div align="center">
 <h2>Curated DSA List</h2>
 <hr/>
@@ -1406,6 +1405,7 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Curated+DSA+List!+%F0%9F%98%84"/>
 </h3>
+-->
     <hr/>
      </div>
     <br><br>
@@ -1415,6 +1415,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Click+On+the+Badge+Icons+Below+%E2%AC%87%EF%B8%8F"/>
 </h3>
 <hr/>
+    <!--
 <h2>Advanced Calculus - 1</h2>
 <div style="text-align: center;">
     <a href="https://github.com/safwannasir49/Differential-Calculus-1" target="_blank" rel="noopener noreferrer nofollow">
@@ -1435,19 +1436,15 @@
 </div>
 <br><br><br>
 <h2>Multivariate Calculus & Differential Equations</h2>
-
 <a href="https://github.com/safwannasir49/Differential-Calculus-II" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Differential%20Calculus%20-%20II-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Differential Calculus - II" style="height: 25px; vertical-align: middle;">
 </a>
 <a href="https://github.com/safwannasir49/Solution-PDEs-Finite-Difference-Method" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Solution%20of%20PDE’s%20using%20Finite%20difference%20method-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Solution of PDE’s using Finite difference method" style="height: 25px; vertical-align: middle;">
 </a>
-
-
 <a href="https://github.com/safwannasir49/Numerical-Solution-First-Order-ODE-1" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Numerical%20solution%20of%20first%20order%20ODE%20-%201-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Numerical solution of first order ODE - 1" style="height: 25px; vertical-align: middle;">
 </a>
-
 </a>
 <a href="https://github.com/safwannasir49/Finite-Differences-Interpolation" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Finite%20Differences%20and%20Interpolation-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Finite Differences and Interpolation" style="height: 25px; vertical-align: middle;">
@@ -1455,14 +1452,41 @@
 <a href="https://github.com/safwannasir49/Finite-Differences-Interpolation-1" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Finite%20Differences%20and%20Interpolation%20-%201-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Finite Differences and Interpolation - 1" style="height: 25px; vertical-align: middle;">
 </a>
-
 <a href="https://github.com/safwannasir49/Partial-Differential-Equations" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Partial%20differential%20equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Partial Differential Equations" style="height: 25px; vertical-align: middle;">
 </a>
 <a href="https://github.com/safwannasir49/First-Order-First-Degree-Linear-Differential-Equations" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/First%20order%20and%20first%20degree%20linear%20differential%20equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="First Order and First Degree Linear Differential Equations" style="height: 25px; vertical-align: middle;">
 </a>
-
+--->
+     
+<div align = "center">
+    <a href="https://github.com/safwannasir49/Linear-Algebra" target="_blank">
+        <img src="https://img.shields.io/badge/Linear%20Algebra-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Linear Algebra">
+    </a>
+    <a href="https://github.com/safwannasir49/Calculus" target="_blank">
+        <img src="https://img.shields.io/badge/Calculus-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Calculus">
+    </a>
+    <a href="https://github.com/safwannasir49/Vector-Calculus" target="_blank">
+        <img src="https://img.shields.io/badge/Vector%20Calculus-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Vector Calculus">
+    </a>
+    <a href="https://github.com/safwannasir49/Differential-Equations" target="_blank">
+        <img src="https://img.shields.io/badge/Differential%20Equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Differential Equations">
+    </a>
+    <a href="https://github.com/safwannasir49/Partial-Differential-Equations" target="_blank">
+        <img src="https://img.shields.io/badge/Partial%20Differential%20Equations-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Partial Differential Equations">
+    </a>
+    <a href="https://github.com/safwannasir49/Transforms" target="_blank">
+        <img src="https://img.shields.io/badge/Transforms-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Transforms">
+    </a>
+    <a href="https://github.com/safwannasir49/Probability-Statistics" target="_blank">
+        <img src="https://img.shields.io/badge/Probability%20and%20Statistics-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Probability and Statistics">
+    </a>
+    <a href="https://github.com/safwannasir49/Numerical-Methods" target="_blank">
+        <img src="https://img.shields.io/badge/Numerical%20Methods-%23009688?style=for-the-badge&logo=mathematica&logoColor=white" alt="Numerical Methods">
+    </a>
+</div>
+<br>
 
  <br><br>
 <h3 align="center">

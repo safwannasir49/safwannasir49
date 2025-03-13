@@ -750,6 +750,8 @@
      <a href="https://github.com/safwannasir49/DSA-Fundamentals-Patterns" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Patterns-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="Patterns">
     </a>
+    < a href = "https://github.com/safwannasir49/DSA-Number-Patterns" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Number%20Patterns-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Array Basics">
 </div>
 <br>
 <hr/>

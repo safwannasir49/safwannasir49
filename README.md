@@ -726,33 +726,35 @@
 <hr/>
 <br>
 <div align="center">
-   <a href="https://github.com/safwannasir49/Java-Fundamentals" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/Java-Fundamentals" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Java%20Fundamentals-FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Fundamentals">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Control-Flow" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Control-Flow" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Control%20Flow-3498DB.svg?style=for-the-badge&logo=java&logoColor=white" alt="Control Flow">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Array-Basics" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Array-Basics" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Array%20Basics-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Array Basics">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Fundamentals-String" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Fundamentals-String" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/String%20Basics-F1C40F.svg?style=for-the-badge&logo=java&logoColor=white" alt="String Basics">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Matrix" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Matrix" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Matrix%20Basics-9B59B6.svg?style=for-the-badge&logo=java&logoColor=white" alt="Matrix Basics">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Math" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Math" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Math%20Basics-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="Math Basics">
     </a>
-    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Recursion" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Recursion" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Recursion%20Basics-1ABC9C.svg?style=for-the-badge&logo=java&logoColor=white" alt="Recursion Basics">
     </a>
-     <a href="https://github.com/safwannasir49/DSA-Fundamentals-Patterns" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DSA-Fundamentals-Patterns" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Patterns-E67E22.svg?style=for-the-badge&logo=java&logoColor=white" alt="Patterns">
     </a>
-    < a href = "https://github.com/safwannasir49/DSA-Number-Patterns" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/Number%20Patterns-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Array Basics">
+    <a href="https://github.com/safwannasir49/DSA-Number-Patterns" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Number%20Patterns-2ECC71.svg?style=for-the-badge&logo=java&logoColor=white" alt="Number Patterns">
+    </a>
 </div>
+
 <br>
 <hr/>
 <br>

@@ -1389,16 +1389,16 @@
      <h3>Data Handling (Section-1)</h3>
      <br>
      <div style="text-align: center;">
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/DataFrames-and-Datasets" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/DataFrames%20%26%20Datasets-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="DataFrames & Datasets" style="height: 25px; vertical-align: middle;">
     </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/Series-and-Columns/tree/main" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Series%20and%20Columns-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white" alt="Series and Columns" style="height: 25px; vertical-align: middle;">
     </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/Index-and-Sorting" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Index%20%26%20Sorting-%23FFC107.svg?style=for-the-badge&logo=python&logoColor=white" alt="Index & Sorting" style="height: 25px; vertical-align: middle;">
     </a>
-    <a href="https://github.com/safwannasir49/Field-of-Data-Science" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://github.com/safwannasir49/Filtering-DataFrames" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/Filtering%20Data%20Frames-%23FF5722.svg?style=for-the-badge&logo=python&logoColor=white" alt="Filtering Data Frames" style="height: 25px; vertical-align: middle;">
     </a>
 </div>

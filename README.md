@@ -1253,7 +1253,14 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Machine+Learning!+%F0%9F%98%84"/>
 </h3>
+
+ <br><br><br>
+ 
 <hr/>
+
+
+
+<!-- 
  <br><br>
 <img src="Images/datascience.png">
 <hr/>
@@ -1262,7 +1269,9 @@
 </h1>
  <hr/>
  <br>
- <!-- Section - 1 Field Of Data Science -->
+ 
+
+
 <div align="center">
     <h3 align="center">Field of Data Science (Section - 1)</h3>
     <br>
@@ -1285,10 +1294,10 @@
     <img src="https://img.shields.io/badge/Debunking%20Common%20Misconceptions-%23CD5C5C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Debunking Common Misconceptions" style="height: 25px; vertical-align: middle;">
 </a>
 
-
 </div>
 <br><br><br>
-<!-- Section - 2 Probability -->
+
+
 <h3 align="center">Probability (Section-2)</h3>
 <br>
 <div align="center">
@@ -1305,9 +1314,9 @@
         <img src="https://img.shields.io/badge/Probability%20in%20Other%20Fields-%238A2BE2.svg?style=for-the-badge&logo=python&logoColor=white" alt="Probability in Other Fields" style="height: 25px; vertical-align: middle;">
     </a>
 </div>
-
 <br><br>
-<!-- Section - 3 Statistics -->
+
+
 <h3 align="center">Statistics (Section - 3)</h3>
 <br>
 <div align="center">
@@ -1337,7 +1346,7 @@
 
 <br><br>
 
-<!-- Section - 4 Advanced Statistical Methods -->
+
 <h3 align="center">Advanced Statistical Methods (Section - 4)</h3>
 <br>
 <div align="center">
@@ -1346,7 +1355,7 @@
     </a>
 </div>
 
-<!-- Section - 5 Mathematics -->
+
 <h3 align="center">Mathematics (Section - 5)</h3>
 <br>
 <div align="center">
@@ -1355,7 +1364,7 @@
     </a>
 </div>
 
-<!-- Section - 6 Deep Learning -->
+
 <h3 align="center">Deep Learning (Section - 6)</h3>
 <br>
 <div align="center">
@@ -1364,7 +1373,7 @@
     </a>
 </div>
 
-<!-- Section - 7 Software Integration -->
+
 <h3 align="center">Software Integration (Section - 7)</h3>
 <br>
 <div align="center">
@@ -1377,7 +1386,10 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFBD&center=true&vCenter=true&random=false&width=435&lines=Thank+You+For+Inspecting+;My+Work+on+Data+Science!+%F0%9F%98%84"/>
 </h3>
-<hr/>
+
+-->
+
+   
 <div align="center">
 <img src = "Images/dataanalytics.png">
 <hr/>
